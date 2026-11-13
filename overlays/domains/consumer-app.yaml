@@ -1,0 +1,12 @@
+overlay_id: "consumer_app"
+type: "domain"
+name: "Consumer Mobile/Social App & Platform"
+reference_companies: ["Karrot (당근)", "Duolingo", "Reddit", "Toss", "Spotify"]
+core_adjustments:
+  compliance_and_guardrails:
+    - "App store policy compliance (Apple ATT, Google Play Policy), community moderation & anti-spam rules."
+    - "Push/AlimTalk fatigue caps to prevent app uninstall spikes."
+  metric_emphasis:
+    - "CPI, D1/D7/D30 Retention, K-factor (Viral Coefficient), DAU/MAU, App Store conversion rate (ASO)."
+  agent_tool_adjustments:
+    - "MMP integration (AppsFlyer, Adjust, Airbridge), ASO keyword testing, short-form UGC hook rapid iteration."

@@ -1,0 +1,12 @@
+overlay_id: "kr_market"
+type: "locale"
+name: "South Korea Domestic Market (국내 비즈니스 환경)"
+channel_and_tool_ecosystem:
+  search_and_seo: ["Naver Search / SmartBlock / Brand Search", "Naver Blog & Cafe", "Daum/Kakao"]
+  paid_media: ["Naver Search Ads (SA) & GFA", "Kakao Moment", "Meta/Instagram", "Google/YouTube", "TikTok", "Karrot Local Ads (당근비즈니스)"]
+  crm_and_messaging: ["Kakao AlimTalk / FriendTalk (알림톡/친구톡)", "Channel.io (채널톡)", "Hackle (핵클)", "Braze", "SMS/LMS"]
+  commerce_and_mmp: ["Cafe24", "Coupang Wing", "Naver SmartStore", "Airbridge (에어브릿지)"]
+  influencer_and_community: ["YouTube Korea", "Instagram Reels", "TikTok", "Naver Blog 체험단", "Blind / DCInside / fmkorea / Everytime monitoring"]
+regulatory_and_cultural_notes:
+  - "개인정보보호법(PIPA), 정보통신망법(야간 21시~08시 광고성 정보 발송 제한), 표시광고법(공정위 경제적 이해관계 명시) 준수 필수."
+  - "상세페이지(PDP) 중심의 설득 구조와 빠른 카카오/네이버 톡톡 고객 응대 호흡 반영."

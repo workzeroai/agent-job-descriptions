@@ -1,0 +1,10 @@
+overlay_id: "scaleup_unicorn"
+type: "stage"
+name: "Scale-up & Unicorn (1→100 / Series B+)"
+reference_companies: ["Toss", "Karrot", "Linear", "Ramp", "ElevenLabs"]
+characteristics:
+  - "Specialized agent pods per funnel stage (Acquisition, Seeding, Brand, CRM, BI) orchestrated by L3 Leads."
+  - "Data-driven attribution, automated A/B testing velocity, and strict brand consistency."
+agent_design_overrides:
+  autonomy_shift: "Strict L1->L2 Critic QA gates; automated budget reallocation within pre-approved weekly ROAS guardrails."
+  recommended_agent_pod: "Full 9-agent Marketing Suite + CMO L4 + Data Analyst L2 + Creative Designer L2."

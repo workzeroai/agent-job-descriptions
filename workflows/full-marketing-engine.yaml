@@ -1,0 +1,101 @@
+workflow_id: "full-autonomous-marketing-engine"
+name: "End-to-End Autonomous Marketing & Revenue Orchestration"
+version: "1.0.0"
+description: >
+  Blueprint showing how C-Level agents orchestrate all 9 Marketing/Research agents,
+  backed by Data, Creative Design, Sales, and Engineering agents.
+
+participants:
+  executive:
+    - cmo-chief-marketing-officer
+    - cro-chief-revenue-officer
+    - cpo-cto-product-tech-executive
+  intelligence_and_strategy:
+    - market-trend-consumer-researcher
+    - brand-marketer-strategist
+  acquisition_and_distribution:
+    - influencer-seeding-affiliate-marketer
+    - social-viral-community-marketer
+    - content-copywriter-creative
+    - seo-aeo-geo-marketer
+    - growth-performance-marketer
+    - pr-communications-event-marketer
+  retention_and_revenue:
+    - crm-lifecycle-retention-marketer
+    - b2b-sales-sdr-ae
+  enablement_and_analytics:
+    - data-analyst-bi
+    - product-creative-designer
+    - product-manager
+    - biz-ops-strategy-cos
+    - software-ai-engineer
+
+pipeline_stages:
+  - stage: 1_goal_and_budget_allocation
+    lead: cmo-chief-marketing-officer
+    collaborators: [cro-chief-revenue-officer, biz-ops-strategy-cos]
+    inputs: ["quarterly_revenue_target.yaml", "product_roadmap.md"]
+    outputs: ["marketing_okr_and_budget.yaml"]
+
+  - stage: 2_market_intelligence_and_icp
+    lead: market-trend-consumer-researcher
+    collaborators: [data-analyst-bi, product-manager]
+    inputs: ["marketing_okr_and_budget.yaml", "raw_voc_and_competitor_urls.json"]
+    outputs: ["icp_personas.json", "competitor_battlecards.md", "weekly_trend_meme_radar.json"]
+
+  - stage: 3_brand_positioning_and_messaging
+    lead: brand-marketer-strategist
+    collaborators: [cmo-chief-marketing-officer, content-copywriter-creative]
+    inputs: ["icp_personas.json", "competitor_battlecards.md"]
+    outputs: ["brand_positioning_and_tone_guide.yaml", "integrated_campaign_brief.md"]
+
+  - stage: 4_creative_and_content_factory
+    lead: content-copywriter-creative
+    collaborators: [product-creative-designer, seo-aeo-geo-marketer]
+    inputs: ["integrated_campaign_brief.md", "brand_positioning_and_tone_guide.yaml"]
+    outputs:
+      - "ad_copy_matrix.json"
+      - "landing_page_wireframe_copy.md"
+      - "shortform_scripts_and_hooks.json"
+      - "seo_aeo_pillar_articles.md"
+      - "visual_creative_briefs.json"
+
+  - stage: 5_omnichannel_distribution_parallel
+    parallel_tracks:
+      - track: paid_acquisition
+        owner: growth-performance-marketer
+        inputs: ["ad_copy_matrix.json", "visual_creative_assets.json", "landing_page_url"]
+        outputs: ["paid_campaign_launch_log.json", "daily_roas_cac_report.yaml"]
+      - track: influencer_seeding
+        owner: influencer-seeding-affiliate-marketer
+        inputs: ["integrated_campaign_brief.md", "shortform_scripts_and_hooks.json"]
+        outputs: ["vetted_kol_roster.json", "seeding_outreach_log.json", "utm_affiliate_roi.csv"]
+      - track: viral_social_community
+        owner: social-viral-community-marketer
+        inputs: ["weekly_trend_meme_radar.json", "shortform_scripts_and_hooks.json"]
+        outputs: ["social_publishing_calendar.json", "community_sentiment_digest.md"]
+      - track: organic_search_and_ai_citations
+        owner: seo-aeo-geo-marketer
+        inputs: ["seo_aeo_pillar_articles.md"]
+        outputs: ["schema_markup_patch.json", "ai_citation_share_report.yaml"]
+      - track: pr_and_events
+        owner: pr-communications-event-marketer
+        inputs: ["integrated_campaign_brief.md", "product_release_notes.md"]
+        outputs: ["press_release_kit.md", "media_pitch_log.json"]
+
+  - stage: 6_conversion_retention_and_sales_handoff
+    parallel_tracks:
+      - track: lifecycle_crm
+        owner: crm-lifecycle-retention-marketer
+        inputs: ["user_event_cohorts.json", "brand_positioning_and_tone_guide.yaml"]
+        outputs: ["automated_journey_flows.yaml", "retention_lift_report.json"]
+      - track: b2b_pipeline
+        owner: b2b-sales-sdr-ae
+        inputs: ["mql_intent_signals.json", "competitor_battlecards.md"]
+        outputs: ["outbound_sequence_log.json", "qualified_sql_pipeline.json"]
+
+  - stage: 7_closed_loop_attribution_and_reallocation
+    lead: data-analyst-bi
+    reviewers: [cmo-chief-marketing-officer, cro-chief-revenue-officer, growth-performance-marketer]
+    inputs: ["daily_roas_cac_report.yaml", "utm_affiliate_roi.csv", "retention_lift_report.json", "qualified_sql_pipeline.json"]
+    outputs: ["unified_marketing_attribution_report.json", "next_week_budget_reallocation.yaml"]

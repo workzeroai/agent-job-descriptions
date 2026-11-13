@@ -1,0 +1,12 @@
+overlay_id: "ai_native"
+type: "domain"
+name: "AI-Native Products & Foundation/Agent Startups"
+reference_companies: ["OpenAI", "Anthropic", "Perplexity", "Cursor", "ElevenLabs", "Sierra", "Upstage", "Wrtn"]
+core_adjustments:
+  compliance_and_guardrails:
+    - "Verify model capabilities, latency, and hallucination boundaries before publishing demos or benchmark claims."
+    - "Optimize content for AI Answer Engines (AEO/GEO) as heavily as traditional Google/Naver SEO."
+  metric_emphasis:
+    - "API/Token adoption, DAU/WAU stickiness, prompt/workflow completion rate, viral demo share rate, developer community growth."
+  agent_tool_adjustments:
+    - "Automate AI-visibility monitoring across ChatGPT/Perplexity/Gemini/Claude, GitHub/Discord/X developer advocacy loops, and rapid product-launch PR."

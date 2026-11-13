@@ -1,0 +1,12 @@
+overlay_id: "ecommerce_d2c"
+type: "domain"
+name: "E-Commerce & D2C Brand (커머스·리테일·D2C)"
+reference_companies: ["Coupang", "Musinsa", "Kurly", "Olive Young", "Shopify", "Glossier"]
+core_adjustments:
+  compliance_and_guardrails:
+    - "Product efficacy claims (화장품법, 건강기능식품법, FTC endorsement disclosure #광고/#ad) must be validated."
+    - "Sync promotional campaigns with real-time inventory/SKU stock levels to prevent out-of-stock ad burn."
+  metric_emphasis:
+    - "ROAS, MER (Marketing Efficiency Ratio), AOV, Cart Abandonment Recovery, Repeat Purchase Rate (RPR), Seeding-to-Sale GMV."
+  agent_tool_adjustments:
+    - "Tight integration with Shopify/Cafe24/Imweb catalog APIs, Meta/TikTok Dynamic Product Ads (DPA), and influencer seeding logistics."

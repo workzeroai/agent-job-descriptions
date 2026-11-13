@@ -1,0 +1,107 @@
+version: "1.0.0"
+repository: "agent-job-descriptions"
+description: "Cross-validated, Agent-Ready Job Descriptions taxonomy with 18 interoperable roles across C-Level, End-to-End Marketing, Business, and Product-Tech."
+
+seniority_tiers:
+  - id: l1_worker
+    name: "L1 Junior — Execution Worker Agent"
+    file: "seniority-levels/l1-junior-worker.yaml"
+    description: "Executes well-defined tasks under SOPs, gathers data, produces drafts."
+  - id: l2_specialist
+    name: "L2 Senior — Autonomous Specialist & Critic Agent"
+    file: "seniority-levels/l2-senior-specialist.yaml"
+    description: "Designs experiments/architecture, handles edge cases, audits L1 outputs."
+  - id: l3_orchestrator
+    name: "L3 Lead/Head — Squad Orchestrator Agent"
+    file: "seniority-levels/l3-lead-orchestrator.yaml"
+    description: "Decomposes goals into worker sub-tasks, manages cross-agent handoffs and budgets."
+  - id: l4_executive
+    name: "L4 C-Level — Executive Strategy & Governance Agent"
+    file: "seniority-levels/l4-c-level-executive.yaml"
+    description: "Sets company-wide OKRs, allocates budget/compute across departments, governs risk."
+
+categories:
+  c-level:
+    name: "C-Level Executive Orchestrators"
+    roles:
+      - role_id: cmo-chief-marketing-officer
+        title_kr: "CMO (마케팅 최고책임자)"
+        title_en: "Chief Marketing Officer"
+      - role_id: cro-chief-revenue-officer
+        title_kr: "CRO / CBO (비즈니스·매출 최고책임자)"
+        title_en: "Chief Revenue / Business Officer"
+      - role_id: cpo-cto-product-tech-executive
+        title_kr: "CPO / CTO (프로덕트·기술 최고책임자)"
+        title_en: "Chief Product & Technology Officer"
+
+  marketing:
+    name: "End-to-End Marketing & Research Suite"
+    roles:
+      - role_id: market-trend-consumer-researcher
+        title_kr: "시장·트렌드·소비자 리서처"
+        title_en: "Market, Trend & Consumer Intelligence Researcher"
+      - role_id: brand-marketer-strategist
+        title_kr: "브랜드 마케터 & 캠페인 전략가"
+        title_en: "Brand Marketer & Campaign Strategist"
+      - role_id: influencer-seeding-affiliate-marketer
+        title_kr: "인플루언서 시딩 & 어필리에이트 마케터"
+        title_en: "Influencer Seeding, KOL & Affiliate Marketer"
+      - role_id: social-viral-community-marketer
+        title_kr: "소셜·바이럴·숏폼 & 커뮤니티 마케터"
+        title_en: "Social Media, Viral Short-form & Community Marketer"
+      - role_id: content-copywriter-creative
+        title_kr: "콘텐츠 마케터·카피라이터 & 크리에이티브 디렉터"
+        title_en: "Content Marketer, Copywriter & Creative Strategist"
+      - role_id: seo-aeo-geo-marketer
+        title_kr: "SEO & AEO/GEO 검색·AI답변엔진 최적화 마케터"
+        title_en: "SEO & AEO/GEO Organic Growth Marketer"
+      - role_id: growth-performance-marketer
+        title_kr: "퍼포먼스·그로스 마케터"
+        title_en: "Growth & Performance Marketer (Paid Media & CRO)"
+      - role_id: crm-lifecycle-retention-marketer
+        title_kr: "CRM·라이프사이클 & 리텐션 마케터"
+        title_en: "CRM, Lifecycle & Retention Marketer"
+      - role_id: pr-communications-event-marketer
+        title_kr: "PR·언론홍보 & 이벤트/웨비나 마케터"
+        title_en: "PR, Communications & Event Marketer"
+
+  business:
+    name: "Business, Sales & Operations"
+    roles:
+      - role_id: b2b-sales-sdr-ae
+        title_kr: "B2B 세일즈 (SDR 리드 발굴 & AE 영업)"
+        title_en: "B2B Sales Development (SDR) & Account Executive (AE)"
+      - role_id: biz-ops-strategy-cos
+        title_kr: "비즈니스 오퍼레이션·전략기획 (Chief of Staff)"
+        title_en: "Business Operations, Strategy & Chief of Staff"
+
+  product-tech:
+    name: "Core Product, Data, Design & Engineering"
+    roles:
+      - role_id: product-manager
+        title_kr: "프로덕트 매니저 (PM / PO)"
+        title_en: "Product Manager / Product Owner"
+      - role_id: data-analyst-bi
+        title_kr: "데이터 애널리스트 (BI / Marketing & Product Analytics)"
+        title_en: "Data Analyst & Business Intelligence"
+      - role_id: product-creative-designer
+        title_kr: "프로덕트 UI/UX & 브랜드 크리에이티브(BX) 디자이너"
+        title_en: "Product UI/UX & Brand Creative Designer"
+      - role_id: software-ai-engineer
+        title_kr: "소프트웨어 & AI 에이전트 엔지니어 (SWE / Context / FDE)"
+        title_en: "Software & AI Agent / Forward Deployed Engineer"
+
+overlays:
+  domains:
+    - "overlays/domains/fintech.yaml"
+    - "overlays/domains/ecommerce-d2c.yaml"
+    - "overlays/domains/b2b-saas.yaml"
+    - "overlays/domains/ai-native.yaml"
+    - "overlays/domains/consumer-app.yaml"
+  stages:
+    - "overlays/stages/early-startup-0to1.yaml"
+    - "overlays/stages/scaleup-unicorn.yaml"
+    - "overlays/stages/global-bigtech.yaml"
+  locales:
+    - "overlays/locales/kr-market.yaml"
+    - "overlays/locales/global-us-market.yaml"

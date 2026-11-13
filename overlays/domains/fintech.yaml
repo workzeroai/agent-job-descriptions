@@ -1,0 +1,13 @@
+overlay_id: "fintech"
+type: "domain"
+name: "Fintech & Financial Services (핀테크·금융)"
+reference_companies: ["Toss", "KakaoBank", "Stripe", "Ramp", "Rippling", "Plaid"]
+core_adjustments:
+  compliance_and_guardrails:
+    - "Strict financial advertising compliance (금융소비자보호법, 공정거래법, 표시광고법, SEC/FINRA rules)."
+    - "Zero-tolerance on unverified yield/return claims or misleading fee statements in ad copy and influencer briefs."
+    - "PII/financial data masking required before passing logs or cohort tables to marketing/analytics agents."
+  metric_emphasis:
+    - "Focus on KYC/KYB completion rate, first transaction activation, LTV/CAC, fraud/chargeback rate, and trust equity."
+  agent_tool_adjustments:
+    - "Add mandatory Legal/Compliance Critic pass before any paid ad, CRM trigger, or PR statement goes live."

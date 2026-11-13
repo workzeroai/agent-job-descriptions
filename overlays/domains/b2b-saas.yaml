@@ -1,0 +1,12 @@
+overlay_id: "b2b_saas"
+type: "domain"
+name: "B2B SaaS & Enterprise Software"
+reference_companies: ["Linear", "Notion", "Vercel", "Sendbird", "Channel.io", "Ramp", "Glean"]
+core_adjustments:
+  compliance_and_guardrails:
+    - "Enterprise data privacy (SOC2, GDPR, PIPA), strict accuracy in technical benchmarks and security claims."
+    - "Align outbound SDR messaging with account-based marketing (ABM) and Product-Led Growth (PLG) usage signals."
+  metric_emphasis:
+    - "MQL → SQL conversion rate, Pipeline Velocity, ACV, Net Dollar Retention (NDR), Payback Period, Demo-to-Close."
+  agent_tool_adjustments:
+    - "HubSpot/Salesforce CRM sync, Clay/Apollo enrichment, Product analytics (Amplitude/Mixpanel) PQL triggers, AEO/GEO citation tracking."

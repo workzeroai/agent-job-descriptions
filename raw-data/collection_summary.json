@@ -1,0 +1,81 @@
+{
+  "collected_at_utc": "2026-11-13T08:13:24.718921+00:00",
+  "total_kr_postings": 362,
+  "total_global_postings": 1770,
+  "total_postings": 2132,
+  "pending_aside_targets_count": 7,
+  "role_counts": {
+    "cmo-chief-marketing-officer": {
+      "kr": 8,
+      "global": 3
+    },
+    "cro-chief-revenue-officer": {
+      "kr": 0,
+      "global": 2
+    },
+    "cpo-cto-product-tech-executive": {
+      "kr": 0,
+      "global": 1
+    },
+    "market-trend-consumer-researcher": {
+      "kr": 17,
+      "global": 4
+    },
+    "brand-marketer-strategist": {
+      "kr": 15,
+      "global": 1
+    },
+    "influencer-seeding-affiliate-marketer": {
+      "kr": 19,
+      "global": 4
+    },
+    "social-viral-community-marketer": {
+      "kr": 1,
+      "global": 7
+    },
+    "content-copywriter-creative": {
+      "kr": 7,
+      "global": 5
+    },
+    "seo-aeo-geo-marketer": {
+      "kr": 0,
+      "global": 30
+    },
+    "growth-performance-marketer": {
+      "kr": 18,
+      "global": 13
+    },
+    "crm-lifecycle-retention-marketer": {
+      "kr": 11,
+      "global": 3
+    },
+    "pr-communications-event-marketer": {
+      "kr": 9,
+      "global": 53
+    },
+    "b2b-sales-sdr-ae": {
+      "kr": 41,
+      "global": 397
+    },
+    "biz-ops-strategy-cos": {
+      "kr": 14,
+      "global": 68
+    },
+    "product-manager": {
+      "kr": 60,
+      "global": 132
+    },
+    "data-analyst-bi": {
+      "kr": 41,
+      "global": 13
+    },
+    "product-creative-designer": {
+      "kr": 21,
+      "global": 66
+    },
+    "software-ai-engineer": {
+      "kr": 72,
+      "global": 983
+    }
+  }
+}

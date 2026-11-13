@@ -1,0 +1,13 @@
+overlay_id: "early_startup_0to1"
+type: "stage"
+name: "Early Startup (0→1 / Seed ~ Series A)"
+characteristics:
+  - "Generalist / full-stack agent composition: 1 agent often wears 2–3 adjacent hats (e.g., Content + Social + Seeding)."
+  - "Speed of hypothesis testing outweighs heavy approval layers or rigid brand guidelines."
+  - "Focus on founder-led growth, cold outbound, manual/automated seeding, and rapid PMF signal discovery."
+agent_design_overrides:
+  autonomy_shift: "Higher autonomous execution on low-cost organic & outbound experiments; tight daily budget caps on paid ads."
+  recommended_agent_pod:
+    - "1x Growth & Content Hybrid Agent"
+    - "1x Market Researcher & Outbound SDR Agent"
+    - "1x Full-stack Product/AI Engineer Agent"

@@ -1,0 +1,11 @@
+overlay_id: "global_us_market"
+type: "locale"
+name: "Global / North America & English-First Market"
+channel_and_tool_ecosystem:
+  search_and_seo: ["Google Search", "ChatGPT / Perplexity / Gemini (AEO/GEO)", "Reddit & Quora organic authority"]
+  paid_media: ["Google Ads", "Meta Ads", "LinkedIn Ads (B2B)", "TikTok Ads", "Reddit Ads", "X Ads"]
+  crm_and_messaging: ["Customer.io", "HubSpot", "Klaviyo", "Braze", "Intercom", "Resend/SendGrid"]
+  influencer_and_community: ["YouTube", "TikTok Shop / Creator Marketplace", "X (Twitter)", "LinkedIn Creators", "Substack", "Discord/Slack communities"]
+regulatory_and_cultural_notes:
+  - "FTC Endorsement Guides (#ad/#sponsored), CAN-SPAM Act, GDPR/CCPA opt-out compliance, TCPA for SMS."
+  - "Product Hunt launches, Hacker News / X build-in-public narratives, and clear value-metric pricing pages."

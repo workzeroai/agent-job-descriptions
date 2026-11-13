@@ -1,0 +1,9 @@
+overlay_id: "global_bigtech"
+type: "stage"
+name: "Global Big Tech & Enterprise (100+ Scale)"
+reference_companies: ["OpenAI", "Anthropic", "Stripe", "Airbnb", "Coupang", "Naver"]
+characteristics:
+  - "Deep specialization, multi-region localization, strict legal/PR/security compliance, and high SLA requirements."
+  - "Cross-functional alignment via formal PRDs, launch readiness reviews, and Marketing Mix Modeling (MMM)."
+agent_design_overrides:
+  autonomy_shift: "Mandatory Legal/Compliance & Brand Critic passes; multi-stage human-in-the-loop sign-off for Tier-1 launches."

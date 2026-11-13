@@ -1,0 +1,188 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/agent-job-descriptions/schemas/agent-spec.schema.json",
+  "title": "Agent-Ready Job Description Spec",
+  "description": "Standardized schema for AI agent role specifications derived from cross-validated real job postings.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "role_id",
+    "category",
+    "title_kr",
+    "title_en",
+    "mission",
+    "cross_validation_sources",
+    "seniority_modes",
+    "compute_environment",
+    "tools_and_mcps",
+    "io_contract",
+    "workflows",
+    "guardrails",
+    "kpis",
+    "domain_overlays"
+  ],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "role_id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "category": {
+      "type": "string",
+      "enum": ["c-level", "marketing", "business", "product-tech"]
+    },
+    "title_kr": { "type": "string" },
+    "title_en": { "type": "string" },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "mission": { "type": "string" },
+    "cross_validation_sources": {
+      "type": "object",
+      "required": ["kr", "global", "consensus_core_tasks"],
+      "properties": {
+        "kr": { "type": "array", "items": { "type": "string" } },
+        "global": { "type": "array", "items": { "type": "string" } },
+        "consensus_core_tasks": { "type": "array", "items": { "type": "string" } },
+        "stripped_human_fluff": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "seniority_modes": {
+      "type": "object",
+      "required": ["l1_worker", "l2_specialist", "l3_orchestrator", "l4_executive"],
+      "properties": {
+        "l1_worker": { "$ref": "#/$defs/seniorityMode" },
+        "l2_specialist": { "$ref": "#/$defs/seniorityMode" },
+        "l3_orchestrator": { "$ref": "#/$defs/seniorityMode" },
+        "l4_executive": { "$ref": "#/$defs/seniorityMode" }
+      }
+    },
+    "compute_environment": {
+      "type": "object",
+      "required": ["runtime", "execution_model", "sandbox_level"],
+      "properties": {
+        "runtime": { "type": "string" },
+        "execution_model": { "type": "string", "enum": ["cron-daemon", "event-driven", "hybrid-daemon-and-task"] },
+        "sandbox_level": { "type": "string", "enum": ["isolated", "networked-restricted", "privileged-with-hitl"] },
+        "browser_access": { "type": "boolean" },
+        "shell_access": { "type": "boolean" }
+      }
+    },
+    "tools_and_mcps": {
+      "type": "object",
+      "required": ["cli_tools", "mcp_servers", "saas_and_apis"],
+      "properties": {
+        "cli_tools": { "type": "array", "items": { "type": "string" } },
+        "mcp_servers": { "type": "array", "items": { "type": "string" } },
+        "saas_and_apis": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "io_contract": {
+      "type": "object",
+      "required": ["inputs", "outputs", "upstream_agents", "downstream_agents", "compatible_agents"],
+      "properties": {
+        "inputs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "format", "from_role"],
+            "properties": {
+              "name": { "type": "string" },
+              "format": { "type": "string" },
+              "from_role": { "type": "string" },
+              "description": { "type": "string" }
+            }
+          }
+        },
+        "outputs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "format", "to_role"],
+            "properties": {
+              "name": { "type": "string" },
+              "format": { "type": "string" },
+              "to_role": { "type": "string" },
+              "description": { "type": "string" }
+            }
+          }
+        },
+        "upstream_agents": { "type": "array", "items": { "type": "string" } },
+        "downstream_agents": { "type": "array", "items": { "type": "string" } },
+        "compatible_agents": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "workflows": {
+      "type": "object",
+      "required": ["routine_cron", "event_triggered"],
+      "properties": {
+        "routine_cron": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "cadence", "trigger", "deliverable"],
+            "properties": {
+              "name": { "type": "string" },
+              "cadence": { "type": "string" },
+              "trigger": { "type": "string" },
+              "deliverable": { "type": "string" }
+            }
+          }
+        },
+        "event_triggered": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "trigger", "deliverable"],
+            "properties": {
+              "name": { "type": "string" },
+              "trigger": { "type": "string" },
+              "deliverable": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "guardrails": {
+      "type": "object",
+      "required": ["autonomous", "human_approval_required", "prohibited"],
+      "properties": {
+        "autonomous": { "type": "array", "items": { "type": "string" } },
+        "human_approval_required": { "type": "array", "items": { "type": "string" } },
+        "prohibited": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "kpis": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["metric", "target_direction", "measurement_cadence"],
+        "properties": {
+          "metric": { "type": "string" },
+          "target_direction": { "type": "string" },
+          "measurement_cadence": { "type": "string" }
+        }
+      }
+    },
+    "domain_overlays": {
+      "type": "object",
+      "required": ["fintech", "ecommerce_d2c", "b2b_saas", "ai_native"],
+      "properties": {
+        "fintech": { "type": "string" },
+        "ecommerce_d2c": { "type": "string" },
+        "b2b_saas": { "type": "string" },
+        "ai_native": { "type": "string" }
+      }
+    }
+  },
+  "$defs": {
+    "seniorityMode": {
+      "type": "object",
+      "required": ["archetype", "autonomy_level", "scope", "system_prompt"],
+      "properties": {
+        "archetype": { "type": "string" },
+        "autonomy_level": { "type": "string" },
+        "scope": { "type": "string" },
+        "system_prompt": { "type": "string" }
+      }
+    }
+  }
+}

@@ -1,0 +1,1486 @@
+[
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4154060003",
+    "title": "데이터 분석가 (10년 미만) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4154060003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7810517003",
+    "title": "데이터 분석가 (10년 이상) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7810517003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4103438003",
+    "title": "데이터 분석가 (7년 미만) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4103438003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7998884003",
+    "title": "데이터 분석가 (7년 이상) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7998884003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7985134003",
+    "title": "재무 데이터 분석가 (Accounting) (Financial Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7985134003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7789761003",
+    "title": "Account Manager (플랫폼 제휴/사업개발)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7789761003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6619423003",
+    "title": "데이터 분석가 (Ads) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6619423003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7990802003",
+    "title": "AI 엔지니어 (Ads) (AI Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7990802003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7825510003",
+    "title": "AI 엔지니어 (AI Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7825510003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7503655003",
+    "title": "AI 엔지니어 (Brain, AIOC) (AI Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7503655003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6545457003",
+    "title": "AI 엔지니어 (Commerce) (AI Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6545457003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6675539003",
+    "title": "데이터 프로덕트 매니저 (AI) (Data Product Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6675539003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7758217003",
+    "title": "AI 엔지니어 (Model) (AI Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7758217003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5366219003",
+    "title": "디바이스 소프트웨어 엔지니어 (Android) (Device Software Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5366219003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4555752003",
+    "title": "보안 리서처 (APT/인프라 모의해킹) (Security Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4555752003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7984223003",
+    "title": "B2B 세일즈 매니저 (Enterprise Account Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7984223003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7639910003",
+    "title": "Banking Product Owner (SOHO 여신)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7639910003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7980102003",
+    "title": "브랜드 마케팅 담당자 (일반계약직) (Brand Marketing Specialist)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7980102003",
+    "matched_roles": [
+      "brand-marketer-strategist"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7637811003",
+    "title": "사업 운영 매니저 (Business Operations Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7637811003",
+    "matched_roles": [
+      "biz-ops-strategy-cos"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6004757003",
+    "title": "사업 운영 담당자 (일반계약직) (Business Operations Specialist)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6004757003",
+    "matched_roles": [
+      "biz-ops-strategy-cos"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6574124003",
+    "title": "콜 세일즈 담당자 (단기계약직) (Call Sales Assistant)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6574124003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5861650003",
+    "title": "채널 세일즈 매니저 (Channel Account Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5861650003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5994085003",
+    "title": "Communications Assistant",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5994085003",
+    "matched_roles": [
+      "pr-communications-event-marketer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7507332003",
+    "title": "커뮤니케이션 담당자 (Communications Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7507332003",
+    "matched_roles": [
+      "pr-communications-event-marketer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5595380003",
+    "title": "커뮤니케이션 담당자 (Communications Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5595380003",
+    "matched_roles": [
+      "pr-communications-event-marketer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7701589003",
+    "title": "커뮤니케이션 담당자 (Communications Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7701589003",
+    "matched_roles": [
+      "pr-communications-event-marketer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8044053003",
+    "title": "커뮤니케이션 담당자 (일반계약직) (Communications Specialist)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8044053003",
+    "matched_roles": [
+      "pr-communications-event-marketer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8003156003",
+    "title": "데이터 분석가 (Compliance) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8003156003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5425435003",
+    "title": "데이터 분석가 (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5425435003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6067282003",
+    "title": "데이터 분석 엔지니어 (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6067282003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7830958003",
+    "title": "데이터 분석가 (Data Intelligence and Analytics) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7830958003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6110702003",
+    "title": "데이터 분석 엔지니어 (Data Warehouse/Mart) (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6110702003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6110708003",
+    "title": "데이터 분석 엔지니어 (Data Warehouse/Platform) (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6110708003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7814940003",
+    "title": "필드 세일즈 매니저 (Direct Sales Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7814940003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7996696003",
+    "title": "필드 세일즈 운영 매니저 (Direct Sales Operations Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7996696003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7818488003",
+    "title": "데이터 분석 엔지니어 (DW) (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7818488003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7985496003",
+    "title": "데이터 분석 엔지니어 (DW/Global) (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7985496003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8101130003",
+    "title": "안산 글로벌 라운지 세일즈 어시스턴트 (Field Sales Assistant)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8101130003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7847718003",
+    "title": "안산 글로벌 라운지 세일즈 담당자 (Field Sales Specialist)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7847718003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7702871003",
+    "title": "데이터 분석 엔지니어 (Finops) (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7702871003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7996773003",
+    "title": "Forward Deployed Engineer ",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7996773003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6615122003",
+    "title": "프론트엔드 개발자 (보훈특별채용) (Frontend Developer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6615122003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4071101003",
+    "title": "프론트엔드 개발자 (Frontend Developer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4071101003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6028262003",
+    "title": "프론트엔드 개발자 (Frontend Developer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6028262003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4076141003",
+    "title": "프론트엔드 개발자 (Frontend Developer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4076141003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7799420003",
+    "title": "프로덕트 디자이너 (Global) (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7799420003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6079748003",
+    "title": "세일즈 매니저 (Global) (Sales Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6079748003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7742346003",
+    "title": "데이터 분석가 (Growth) (Data Analyst)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7742346003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6685097003",
+    "title": "프로덕트 디자이너 (Japan) (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6685097003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6600650003",
+    "title": "ML 백엔드 엔지니어 (ML Backend Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6600650003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6620395003",
+    "title": "네트워크 소프트웨어 엔지니어 (Network Software Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6620395003",
+    "matched_roles": [
+      "software-ai-engineer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7901191003",
+    "title": "데이터 분석 엔지니어 (Platform) (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7901191003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6645649003",
+    "title": "Platform Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6645649003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6355421003",
+    "title": "Platform Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6355421003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7739173003",
+    "title": "Platform Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7739173003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7774510003",
+    "title": "Platform Product Owner (기업솔루션)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7774510003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7988200003",
+    "title": "Platform Product Owner (Blockchain)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7988200003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8013755003",
+    "title": "Platform Product Owner (Data & AI)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8013755003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7707895003",
+    "title": "Platform Product Owner (Facepay)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7707895003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7746633003",
+    "title": "Platform Product Owner (Global)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7746633003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8014515003",
+    "title": "Platform Product Owner (POS)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8014515003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5960616003",
+    "title": "데이터 분석 엔지니어 (Product) (Data Analytics Engineer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5960616003",
+    "matched_roles": [
+      "data-analyst-bi"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5425438003",
+    "title": "프로덕트 디자이너 (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5425438003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4346520003",
+    "title": "프로덕트 디자이너 (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4346520003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6294769003",
+    "title": "프로덕트 디자이너 (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6294769003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4346514003",
+    "title": "프로덕트 디자이너 (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4346514003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7809582003",
+    "title": "프로덕트 디자이너 (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7809582003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4326315003",
+    "title": "프로덕트 디자이너 (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4326315003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7611090003",
+    "title": "Product Manager (LLM)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7611090003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4071413003",
+    "title": "Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4071413003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7551674003",
+    "title": "Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7551674003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4915946003",
+    "title": "Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4915946003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6355822003",
+    "title": "Product Owner (Commerce)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6355822003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7742762003",
+    "title": "Product Owner (Global)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7742762003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7884093003",
+    "title": "Product Owner (Growth)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7884093003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7994019003",
+    "title": "Product Owner (시세 Platform)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7994019003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7883992003",
+    "title": "Product Owner (원장 Platform)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7883992003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7804051003",
+    "title": "Product Owner (User Journey)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7804051003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7803925003",
+    "title": "Product Owner (Vertical)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7803925003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7853432003",
+    "title": "Sales Development Representative",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7853432003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6624660003",
+    "title": "세일즈 지원 매니저 (Sales Enablement Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6624660003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6060940003",
+    "title": "세일즈 매니저 (Sales Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6060940003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6602000003",
+    "title": "세일즈 운영 담당자 (일반계약직) (Sales Operations Specialist)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6602000003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5160641003",
+    "title": "세일즈 교육 매니저 (Sales Training Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5160641003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4076085003",
+    "title": "보안 리서처 (모의해킹/취약점 분석) (Security Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4076085003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7780944003",
+    "title": "보안 리서처 (모바일보안) (Security Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7780944003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4770540003",
+    "title": "보안 리서처 (산업기능요원/전문연구요원) (Security Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4770540003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8066082003",
+    "title": "보안 리서처 (Security Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8066082003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8066268003",
+    "title": "보안 리서처 (일반계약직) (Security Research Specialist)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8066268003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7984222003",
+    "title": "솔루션 세일즈 매니저 (Solution Account Manager)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7984222003",
+    "matched_roles": [
+      "b2b-sales-sdr-ae"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5452510003",
+    "title": "Technical Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5452510003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8097990003",
+    "title": "Technical Product Owner",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8097990003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6585474003",
+    "title": "Technical Product Owner (공통)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6585474003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6532656003",
+    "title": "Technical Product Owner (AI)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6532656003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8042384003",
+    "title": "Technical Product Owner (AI)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8042384003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7340738003",
+    "title": "Technical Product Owner (Commerce)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7340738003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7668948003",
+    "title": "Technical Product Owner (Search)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7668948003",
+    "matched_roles": [
+      "product-manager"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7659912003",
+    "title": "프로덕트 디자이너 (Trading) (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7659912003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "4208133003",
+    "title": "글로벌 UX 리서처 (Global UX Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=4208133003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8008934003",
+    "title": "UX 리서처 (UX Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8008934003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5801150003",
+    "title": "UX 리서처 (UX Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5801150003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "6982277003",
+    "title": "UX 리서처 (UX Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=6982277003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "5865632003",
+    "title": "UX 리서처 (UX Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=5865632003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8188232003",
+    "title": "UX 리서처 (UX Researcher)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8188232003",
+    "matched_roles": [
+      "market-trend-consumer-researcher"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "8006738003",
+    "title": "Visual Designer (Brand Comms Team)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=8006738003",
+    "matched_roles": [
+      "pr-communications-event-marketer"
+    ],
+    "description_excerpt": ""
+  },
+  {
+    "source": "toss-careers",
+    "company": "Toss (Toss)",
+    "region": "kr",
+    "id": "7659800003",
+    "title": "프로덕트 디자이너 (WM Membership) (Product Designer)",
+    "department": "",
+    "location": "Seoul, KR",
+    "url": "https://toss.im/career/job-detail?job_id=7659800003",
+    "matched_roles": [
+      "product-creative-designer"
+    ],
+    "description_excerpt": ""
+  }
+]

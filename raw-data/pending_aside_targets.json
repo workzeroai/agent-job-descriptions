@@ -1,0 +1,65 @@
+[
+  {
+    "source": "ashby",
+    "company": "Cursor (Anysphere)",
+    "url": "https://jobs.ashbyhq.com/anysphere",
+    "api_url": "https://api.ashbyhq.com/posting-api/job-board/anysphere",
+    "region": "global",
+    "reason": "HTTP 404",
+    "aside_cmd": "aside fetch https://jobs.ashbyhq.com/anysphere --output raw-data/global/ashby_anysphere.json"
+  },
+  {
+    "source": "greenhouse",
+    "company": "Glean",
+    "url": "https://boards.greenhouse.io/glean",
+    "api_url": "https://boards-api.greenhouse.io/v1/boards/glean/jobs?content=true",
+    "region": "global",
+    "reason": "HTTP 404",
+    "aside_cmd": "aside fetch https://boards.greenhouse.io/glean --output raw-data/global/greenhouse_glean.json"
+  },
+  {
+    "source": "lever",
+    "company": "Mistral AI",
+    "url": "https://jobs.lever.co/mistral",
+    "api_url": "https://api.lever.co/v0/postings/mistral?mode=json",
+    "region": "global",
+    "reason": "HTTP 404",
+    "aside_cmd": "aside fetch https://jobs.lever.co/mistral --output raw-data/global/lever_mistral.json"
+  },
+  {
+    "source": "remember-career",
+    "company": "Remember Career (리멤버 커리어 - 시니어/C레벨)",
+    "url": "https://career.rememberapp.co.kr/job/postings",
+    "api_url": "N/A (Login/SPA gated)",
+    "region": "kr",
+    "reason": "Requires authenticated session / dynamic SPA rendering (queued for aside CLI)",
+    "aside_cmd": "aside fetch https://career.rememberapp.co.kr/job/postings --render --output raw-data/kr/remember_postings.json"
+  },
+  {
+    "source": "linkedin-jobs",
+    "company": "LinkedIn Jobs (Global C-Level / Marketing / AI)",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=Chief%20Marketing%20Officer%20OR%20Influencer%20Marketing",
+    "api_url": "N/A (Auth-walled)",
+    "region": "global",
+    "reason": "Requires authenticated session (queued for aside CLI)",
+    "aside_cmd": "aside fetch 'https://www.linkedin.com/jobs/search/?keywords=CMO%20OR%20Brand%20Marketing' --output raw-data/global/linkedin_jobs.json"
+  },
+  {
+    "source": "karrot-careers",
+    "company": "Karrot (당근마켓 채용)",
+    "url": "https://about.daangn.com/jobs/",
+    "api_url": "https://about.daangn.com/jobs/",
+    "region": "kr",
+    "reason": "Next.js / Greenhouse hybrid SPA; queued for aside CLI deep extraction",
+    "aside_cmd": "aside fetch https://about.daangn.com/jobs/ --render --output raw-data/kr/karrot_jobs.json"
+  },
+  {
+    "source": "jumpit",
+    "company": "Jumpit (점핏 - IT/개발/데이터/PM)",
+    "url": "https://www.jumpit.co.kr/positions",
+    "api_url": "https://api.jumpit.co.kr/api/positions",
+    "region": "kr",
+    "reason": "SPA / header-protected endpoint; queued for aside CLI verification",
+    "aside_cmd": "aside fetch https://www.jumpit.co.kr/positions --render --output raw-data/kr/jumpit_jobs.json"
+  }
+]
