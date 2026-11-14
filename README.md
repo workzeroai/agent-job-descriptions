@@ -5,6 +5,7 @@
 국내(원티드, 사람인, 토스, 쿠팡, 센드버드 등)와 해외(OpenAI, Anthropic, Stripe, Ramp, Perplexity, Notion, ElevenLabs, Linear, Figma, Vercel, Airbnb 등)의 **실제 최신 채용 공고 원문을 수집·교차검증**하여, 사람용 HR 수사구를 제거하고 에이전트 시스템 프롬프트·I/O 규격·권한 가드레일로 변환했습니다.
 
 > 📱 **모바일에서 읽으시나요?** 가로 스크롤 없는 세로 카드형 통합 문서 [**`MOBILE_READER.md` 바로 보기**](MOBILE_READER.md)를 추천합니다!
+> 🎓 **에이전트 오케스트레이션 원리와 2주 학습 로드맵이 궁금하다면?** [**`STUDY_CURRICULUM.md` 커리큘럼 보기**](STUDY_CURRICULUM.md)
 
 ---
 

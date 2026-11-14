@@ -3,6 +3,7 @@
 > **GitHub 모바일 앱 전용 세로 최적화 뷰** — 가로 스크롤이 생기는 넓은 표를 모두 제거하고, 카드형 리스트와 접기/펼치기(`<details>`) 구조로 18개 직무 전체를 한 화면에서 쾌적하게 읽을 수 있도록 구성했습니다.
 
 - [🏠 메인 README로 돌아가기](README.md)
+- [🎓 에이전트 오케스트레이션 학습 커리큘럼 보기](STUDY_CURRICULUM.md)
 - [⏳ `aside` CLI 미수집 대기 목록 보기](raw-data/PENDING_ASIDE_CLI.md)
 
 ---
