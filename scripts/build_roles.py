@@ -43,6 +43,12 @@ def filter_relevant_postings(role_id: str, items: List[Dict[str, Any]]) -> List[
     return filtered
 
 
+def clean_md_link_text(text: str) -> str:
+    """Sanitize brackets/newlines in scraped titles so Markdown links never break."""
+    cleaned = " ".join(str(text).split())
+    return cleaned.replace("[", "(").replace("]", ")").strip()
+
+
 def format_source_label(item: Dict[str, Any]) -> str:
     return f"{item.get('company', 'Unknown')} — {item.get('title', 'Role')} ({item.get('source', '')})"
 
@@ -53,12 +59,12 @@ def build_markdown(role: Dict[str, Any], kr_samples: List[Dict[str, Any]], gl_sa
     aliases = ", ".join(role.get("aliases", []))
 
     kr_list = "\n".join(
-        f"  - **{s['company']}** — [{s['title']}]({s['url']}) *(`{s['source']}`)*"
+        f"  - **{clean_md_link_text(s['company'])}** — [{clean_md_link_text(s['title'])}]({s['url']}) (`{s['source']}`)"
         for s in kr_samples[:6]
     ) or "  - *(직접 크롤링 매칭 공고 0건 — `raw-data/PENDING_ASIDE_CLI.md`의 리멤버/당근/점핏 큐 참조 및 글로벌 C레벨/전문직 공고로 교차 보완)*"
 
     gl_list = "\n".join(
-        f"  - **{s['company']}** — [{s['title']}]({s['url']}) *(`{s['source']}`)*"
+        f"  - **{clean_md_link_text(s['company'])}** — [{clean_md_link_text(s['title'])}]({s['url']}) (`{s['source']}`)"
         for s in gl_samples[:6]
     ) or "  - *(글로벌 타겟 `raw-data/PENDING_ASIDE_CLI.md` 큐 참조)*"
 

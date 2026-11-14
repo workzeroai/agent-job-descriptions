@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [Director - Backend Engineering (Infrastructure)](https://www.coupang.jobs/en/jobs/?gh_jid=8040140) *(`greenhouse`)*
-  - **Coupang** — [Director Backend Engineering (Security Infrastructure)](https://www.coupang.jobs/en/jobs/?gh_jid=8040145) *(`greenhouse`)*
-  - **Coupang** — [Senior Backend Engineer (Monetization) - Coupang Play](https://www.coupang.jobs/en/jobs/?gh_jid=8384779) *(`greenhouse`)*
-  - **Coupang** — [Senior Manager - Backend Engineering](https://www.coupang.jobs/en/jobs/?gh_jid=8076295) *(`greenhouse`)*
-  - **Coupang** — [Senior Software Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8275808) *(`greenhouse`)*
-  - **Coupang** — [Senior Software Engineer [L5]](https://www.coupang.jobs/en/jobs/?gh_jid=8255590) *(`greenhouse`)*
+  - **Coupang** — [Director - Backend Engineering (Infrastructure)](https://www.coupang.jobs/en/jobs/?gh_jid=8040140) (`greenhouse`)
+  - **Coupang** — [Director Backend Engineering (Security Infrastructure)](https://www.coupang.jobs/en/jobs/?gh_jid=8040145) (`greenhouse`)
+  - **Coupang** — [Senior Backend Engineer (Monetization) - Coupang Play](https://www.coupang.jobs/en/jobs/?gh_jid=8384779) (`greenhouse`)
+  - **Coupang** — [Senior Manager - Backend Engineering](https://www.coupang.jobs/en/jobs/?gh_jid=8076295) (`greenhouse`)
+  - **Coupang** — [Senior Software Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8275808) (`greenhouse`)
+  - **Coupang** — [Senior Software Engineer (L5)](https://www.coupang.jobs/en/jobs/?gh_jid=8255590) (`greenhouse`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Software Engineer, Scaled Abuse](https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da) *(`ashby`)*
-  - **OpenAI** — [Software Engineer, Data Infrastructure](https://jobs.ashbyhq.com/openai/f763c6b3-5167-4a67-b691-4c3fa2c44156) *(`ashby`)*
-  - **OpenAI** — [Software Engineer, Developer Productivity](https://jobs.ashbyhq.com/openai/2cba0d45-7a4f-4f38-ac73-3f8633bf0349) *(`ashby`)*
-  - **OpenAI** — [Software Engineer, Observability](https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842) *(`ashby`)*
-  - **OpenAI** — [Software Engineer, Collective Communication](https://jobs.ashbyhq.com/openai/340c0c22-8d8f-4232-b17e-f642b64c25c3) *(`ashby`)*
-  - **OpenAI** — [Software Engineer, Security Observability](https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d) *(`ashby`)*
+  - **OpenAI** — [Software Engineer, Scaled Abuse](https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da) (`ashby`)
+  - **OpenAI** — [Software Engineer, Data Infrastructure](https://jobs.ashbyhq.com/openai/f763c6b3-5167-4a67-b691-4c3fa2c44156) (`ashby`)
+  - **OpenAI** — [Software Engineer, Developer Productivity](https://jobs.ashbyhq.com/openai/2cba0d45-7a4f-4f38-ac73-3f8633bf0349) (`ashby`)
+  - **OpenAI** — [Software Engineer, Observability](https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842) (`ashby`)
+  - **OpenAI** — [Software Engineer, Collective Communication](https://jobs.ashbyhq.com/openai/340c0c22-8d8f-4232-b17e-f642b64c25c3) (`ashby`)
+  - **OpenAI** — [Software Engineer, Security Observability](https://jobs.ashbyhq.com/openai/1e4e9985-babf-4bd9-8fe8-a2016250780d) (`ashby`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 확장 가능한 백엔드 API, 데이터베이스 스키마, 프론트엔드 UI 및 웹/앱 트래킹 구현

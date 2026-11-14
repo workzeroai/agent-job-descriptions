@@ -19,16 +19,16 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [Customer Growth Manager (CRM & Membership)](https://www.coupang.jobs/en/jobs/?gh_jid=8225991) *(`greenhouse`)*
-  - **마이노멀컴퍼니** — [[인아웃] 그로스/CRM 마케터](https://www.wanted.co.kr/wd/397698) *(`wanted`)*
-  - **이팝소프트(말해보카)** — [CRM 마케터](https://www.wanted.co.kr/wd/397245) *(`wanted`)*
-  - **와트니** — [[멜팅] CRM 마케터](https://www.wanted.co.kr/wd/397018) *(`wanted`)*
-  - **딥다이브** — [[베리시] CRM 마케터](https://www.wanted.co.kr/wd/396355) *(`wanted`)*
-  - **로앤컴퍼니(lawtalk)** — [로톡 CRM 마케터](https://www.wanted.co.kr/wd/395695) *(`wanted`)*
+  - **Coupang** — [Customer Growth Manager (CRM & Membership)](https://www.coupang.jobs/en/jobs/?gh_jid=8225991) (`greenhouse`)
+  - **마이노멀컴퍼니** — [(인아웃) 그로스/CRM 마케터](https://www.wanted.co.kr/wd/397698) (`wanted`)
+  - **이팝소프트(말해보카)** — [CRM 마케터](https://www.wanted.co.kr/wd/397245) (`wanted`)
+  - **와트니** — [(멜팅) CRM 마케터](https://www.wanted.co.kr/wd/397018) (`wanted`)
+  - **딥다이브** — [(베리시) CRM 마케터](https://www.wanted.co.kr/wd/396355) (`wanted`)
+  - **로앤컴퍼니(lawtalk)** — [로톡 CRM 마케터](https://www.wanted.co.kr/wd/395695) (`wanted`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **Notion** — [Lifecycle Marketing Manager, Campaign Strategy & Execution](https://jobs.ashbyhq.com/notion/576401b9-66e7-4407-a9e2-8aafaa590082) *(`ashby`)*
-  - **Stripe** — [Lifecycle Marketing Manager, Capital](https://stripe.com/jobs/search?gh_jid=8082149) *(`greenhouse`)*
-  - **Airbnb** — [Marketing & CRM Intern, Experiences](https://careers.airbnb.com/positions/8376124?gh_jid=8376124) *(`greenhouse`)*
+  - **Notion** — [Lifecycle Marketing Manager, Campaign Strategy & Execution](https://jobs.ashbyhq.com/notion/576401b9-66e7-4407-a9e2-8aafaa590082) (`ashby`)
+  - **Stripe** — [Lifecycle Marketing Manager, Capital](https://stripe.com/jobs/search?gh_jid=8082149) (`greenhouse`)
+  - **Airbnb** — [Marketing & CRM Intern, Experiences](https://careers.airbnb.com/positions/8376124?gh_jid=8376124) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 유저 행동·RFM(Recency/Frequency/Monetary)·이탈 징후 기반 동적 세그먼트 설계

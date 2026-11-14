@@ -19,18 +19,18 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **콘레브** — [[인턴][베이글챗] 광고 콘텐츠 마케팅(정규전환형)](https://www.wanted.co.kr/wd/398147) *(`wanted`)*
-  - **콘레브** — [[베이글챗] 광고 콘텐츠 마케터 (1년 이상)](https://www.wanted.co.kr/wd/398149) *(`wanted`)*
-  - **이그니스** — [글로벌 콘텐츠 마케터 (홍콩/싱가포르/대만)](https://www.wanted.co.kr/wd/398066) *(`wanted`)*
-  - **크픽** — [[인턴] [뷰티&헬스] 콘텐츠 마케터](https://www.wanted.co.kr/wd/398055) *(`wanted`)*
-  - **시너윗** — [[미디어커머스] 브랜드를 키우는 콘텐츠 마케터](https://www.wanted.co.kr/wd/398045) *(`wanted`)*
-  - **바이닥터** — [드럭스토어 콘텐츠 마케터](https://www.wanted.co.kr/wd/398032) *(`wanted`)*
+  - **콘레브** — [(인턴)(베이글챗) 광고 콘텐츠 마케팅(정규전환형)](https://www.wanted.co.kr/wd/398147) (`wanted`)
+  - **콘레브** — [(베이글챗) 광고 콘텐츠 마케터 (1년 이상)](https://www.wanted.co.kr/wd/398149) (`wanted`)
+  - **이그니스** — [글로벌 콘텐츠 마케터 (홍콩/싱가포르/대만)](https://www.wanted.co.kr/wd/398066) (`wanted`)
+  - **크픽** — [(인턴) (뷰티&헬스) 콘텐츠 마케터](https://www.wanted.co.kr/wd/398055) (`wanted`)
+  - **시너윗** — [(미디어커머스) 브랜드를 키우는 콘텐츠 마케터](https://www.wanted.co.kr/wd/398045) (`wanted`)
+  - **바이닥터** — [드럭스토어 콘텐츠 마케터](https://www.wanted.co.kr/wd/398032) (`wanted`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Education Content Marketing Lead](https://jobs.ashbyhq.com/openai/96f3c3a6-9951-4db7-8125-8c0f16e8af62) *(`ashby`)*
-  - **Stripe** — [Editorial Director, Brand & Creative Partnerships](https://stripe.com/jobs/search?gh_jid=8203216) *(`greenhouse`)*
-  - **Stripe** — [Social & Content Marketing, Stripe Crypto](https://stripe.com/jobs/search?gh_jid=8246785) *(`greenhouse`)*
-  - **Stripe** — [Writer, Content Marketing](https://stripe.com/jobs/search?gh_jid=8265686) *(`greenhouse`)*
-  - **Reddit** — [Creative Strategist (M&E/Retail)](https://job-boards.greenhouse.io/reddit/jobs/8191664) *(`greenhouse`)*
+  - **OpenAI** — [Education Content Marketing Lead](https://jobs.ashbyhq.com/openai/96f3c3a6-9951-4db7-8125-8c0f16e8af62) (`ashby`)
+  - **Stripe** — [Editorial Director, Brand & Creative Partnerships](https://stripe.com/jobs/search?gh_jid=8203216) (`greenhouse`)
+  - **Stripe** — [Social & Content Marketing, Stripe Crypto](https://stripe.com/jobs/search?gh_jid=8246785) (`greenhouse`)
+  - **Stripe** — [Writer, Content Marketing](https://stripe.com/jobs/search?gh_jid=8265686) (`greenhouse`)
+  - **Reddit** — [Creative Strategist (M&E/Retail)](https://job-boards.greenhouse.io/reddit/jobs/8191664) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 퍼포먼스 매체용 다각도 훅(Hook)·바디·CTA 광고 카피 매트릭스 작성 (각도별 A/B 테스트셋)

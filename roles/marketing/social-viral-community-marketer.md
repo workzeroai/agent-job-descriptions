@@ -19,14 +19,14 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [[쿠팡] IP 사업부 SNS & 숏폼 콘텐츠 시니어 마케터](https://www.coupang.jobs/en/jobs/?gh_jid=8382145) *(`greenhouse`)*
+  - **Coupang** — [(쿠팡) IP 사업부 SNS & 숏폼 콘텐츠 시니어 마케터](https://www.coupang.jobs/en/jobs/?gh_jid=8382145) (`greenhouse`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **Perplexity** — [Social Media Manager](https://jobs.ashbyhq.com/Perplexity/9740bc68-7297-4d69-ae54-3be81ae3745a) *(`ashby`)*
-  - **Stripe** — [Social Media, Customer Support Associate](https://stripe.com/jobs/search?gh_jid=7962437) *(`greenhouse`)*
-  - **Stripe** — [Social Media, Customer Support Associate (Includes Weekend Rotations)](https://stripe.com/jobs/search?gh_jid=7867328) *(`greenhouse`)*
-  - **Vercel** — [Community Manager, Experiential Marketing](https://job-boards.greenhouse.io/vercel/jobs/6231540004) *(`greenhouse`)*
-  - **Reddit** — [Community Manager, Dutch Speaking (Contract)](https://job-boards.greenhouse.io/reddit/jobs/8275952) *(`greenhouse`)*
-  - **Reddit** — [Community Manager, French Speaking (Contract)](https://job-boards.greenhouse.io/reddit/jobs/8143677) *(`greenhouse`)*
+  - **Perplexity** — [Social Media Manager](https://jobs.ashbyhq.com/Perplexity/9740bc68-7297-4d69-ae54-3be81ae3745a) (`ashby`)
+  - **Stripe** — [Social Media, Customer Support Associate](https://stripe.com/jobs/search?gh_jid=7962437) (`greenhouse`)
+  - **Stripe** — [Social Media, Customer Support Associate (Includes Weekend Rotations)](https://stripe.com/jobs/search?gh_jid=7867328) (`greenhouse`)
+  - **Vercel** — [Community Manager, Experiential Marketing](https://job-boards.greenhouse.io/vercel/jobs/6231540004) (`greenhouse`)
+  - **Reddit** — [Community Manager, Dutch Speaking (Contract)](https://job-boards.greenhouse.io/reddit/jobs/8275952) (`greenhouse`)
+  - **Reddit** — [Community Manager, French Speaking (Contract)](https://job-boards.greenhouse.io/reddit/jobs/8143677) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 채널별 알고리즘 문법(릴스/틱톡/쇼츠/X/스레드/커뮤니티)에 맞춘 오가닉 포스트·숏폼 기획 및 발행

@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [[CES] 딜리버리 운영혁신 PM (Instant Commerce Business & Operations)](https://www.coupang.jobs/en/jobs/?gh_jid=8333328) *(`greenhouse`)*
-  - **Coupang** — [[Coupang] Senior Product Manager (Premier EX) - Coupang Play](https://www.coupang.jobs/en/jobs/?gh_jid=8280624) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 고객경험(CX) PM](https://www.coupang.jobs/en/jobs/?gh_jid=8332918) *(`greenhouse`)*
-  - **Coupang** — [Group Product Manager (Taiwan - Post Purchase)](https://www.coupang.jobs/en/jobs/?gh_jid=8364543) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 쿠팡이츠 Merchant Experience - 사업기획 및 운영 PM](https://www.coupang.jobs/en/jobs/?gh_jid=8187967) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 로켓배송 카탈로그 운영 및 프로세스 개선 PM](https://www.coupang.jobs/en/jobs/?gh_jid=8257895) *(`greenhouse`)*
+  - **Coupang** — [(CES) 딜리버리 운영혁신 PM (Instant Commerce Business & Operations)](https://www.coupang.jobs/en/jobs/?gh_jid=8333328) (`greenhouse`)
+  - **Coupang** — [(Coupang) Senior Product Manager (Premier EX) - Coupang Play](https://www.coupang.jobs/en/jobs/?gh_jid=8280624) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 고객경험(CX) PM](https://www.coupang.jobs/en/jobs/?gh_jid=8332918) (`greenhouse`)
+  - **Coupang** — [Group Product Manager (Taiwan - Post Purchase)](https://www.coupang.jobs/en/jobs/?gh_jid=8364543) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 쿠팡이츠 Merchant Experience - 사업기획 및 운영 PM](https://www.coupang.jobs/en/jobs/?gh_jid=8187967) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 로켓배송 카탈로그 운영 및 프로세스 개선 PM](https://www.coupang.jobs/en/jobs/?gh_jid=8257895) (`greenhouse`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Product Manager, API Agents](https://jobs.ashbyhq.com/openai/fc38c6bf-5330-435c-99b6-1bcf1f5829a8) *(`ashby`)*
-  - **OpenAI** — [Product Manager, Integrity](https://jobs.ashbyhq.com/openai/05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d) *(`ashby`)*
-  - **OpenAI** — [Product Manager, API Infrastructure](https://jobs.ashbyhq.com/openai/7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a) *(`ashby`)*
-  - **OpenAI** — [Product Manager, Financial Engineering](https://jobs.ashbyhq.com/openai/0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc) *(`ashby`)*
-  - **OpenAI** — [Product Manager, Core Models](https://jobs.ashbyhq.com/openai/33b8effb-b048-4934-a279-87fff192a330) *(`ashby`)*
-  - **OpenAI** — [Product Manager, Youth](https://jobs.ashbyhq.com/openai/cc0d0d86-eb9d-44a0-a6a4-42bbb6066b4b) *(`ashby`)*
+  - **OpenAI** — [Product Manager, API Agents](https://jobs.ashbyhq.com/openai/fc38c6bf-5330-435c-99b6-1bcf1f5829a8) (`ashby`)
+  - **OpenAI** — [Product Manager, Integrity](https://jobs.ashbyhq.com/openai/05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d) (`ashby`)
+  - **OpenAI** — [Product Manager, API Infrastructure](https://jobs.ashbyhq.com/openai/7ffa2a14-fa9c-46cb-a30a-1f7a35ae904a) (`ashby`)
+  - **OpenAI** — [Product Manager, Financial Engineering](https://jobs.ashbyhq.com/openai/0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc) (`ashby`)
+  - **OpenAI** — [Product Manager, Core Models](https://jobs.ashbyhq.com/openai/33b8effb-b048-4934-a279-87fff192a330) (`ashby`)
+  - **OpenAI** — [Product Manager, Youth](https://jobs.ashbyhq.com/openai/cc0d0d86-eb9d-44a0-a6a4-42bbb6066b4b) (`ashby`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 고객 VOC, 데이터 퍼널 병목, 시장 리서치를 종합한 문제 정의 및 가설 수립

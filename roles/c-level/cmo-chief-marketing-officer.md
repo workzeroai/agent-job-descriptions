@@ -19,16 +19,16 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **(주)유니코써치** — [[PE투자사] 라이프/뷰티 브랜드사CMO(마케팅리더) 초빙](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55527861&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) *(`saramin`)*
-  - **리뉴피플 주식회사** — [빅테크CMO서비스 총괄 채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55529267&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) *(`saramin`)*
-  - **커리어커넥트(주)** — [국내 유명 패션/라이프스타일 상장 기업 전사 총괄CMO](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55445332&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) *(`saramin`)*
-  - **에이치알코어스** — [IT 기업CMO채용(헤드헌팅)](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55492589&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) *(`saramin`)*
-  - **(주)팜스빌** — [팜스빌CMO(마케팅 전략/기획 책임자) 모십니다.](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55385435&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) *(`saramin`)*
-  - **(주)리앤파트너** — [[유명 금융 IT 대기업]CMO(부총괄)](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55435842&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) *(`saramin`)*
+  - **(주)유니코써치** — [(PE투자사) 라이프/뷰티 브랜드사CMO(마케팅리더) 초빙](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55527861&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) (`saramin`)
+  - **리뉴피플 주식회사** — [빅테크CMO서비스 총괄 채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55529267&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) (`saramin`)
+  - **커리어커넥트(주)** — [국내 유명 패션/라이프스타일 상장 기업 전사 총괄CMO](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55445332&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) (`saramin`)
+  - **에이치알코어스** — [IT 기업CMO채용(헤드헌팅)](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55492589&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) (`saramin`)
+  - **(주)팜스빌** — [팜스빌CMO(마케팅 전략/기획 책임자) 모십니다.](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55385435&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) (`saramin`)
+  - **(주)리앤파트너** — [(유명 금융 IT 대기업)CMO(부총괄)](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55435842&location=ts&searchword=CMO&searchType=search&paid_fl=n&search_uuid=05321ac1-81fd-40d8-8f1d-3e6ed48473eb) (`saramin`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **Perplexity** — [Head of Marketing Operations](https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a) *(`ashby`)*
-  - **Cohere** — [Head of Marketing Operations](https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e) *(`ashby`)*
-  - **Stripe** — [Head of Marketing, Japan](https://stripe.com/jobs/search?gh_jid=8273853) *(`greenhouse`)*
+  - **Perplexity** — [Head of Marketing Operations](https://jobs.ashbyhq.com/Perplexity/0ddf1b9a-9875-445c-a78f-f033d023a34a) (`ashby`)
+  - **Cohere** — [Head of Marketing Operations](https://jobs.ashbyhq.com/cohere/247a481a-21cc-4829-94c7-8447b692c89e) (`ashby`)
+  - **Stripe** — [Head of Marketing, Japan](https://stripe.com/jobs/search?gh_jid=8273853) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 분기·연간 전사 GTM 및 풀퍼널(인지→획득→전환→리텐션→추천) 마케팅 전략 수립

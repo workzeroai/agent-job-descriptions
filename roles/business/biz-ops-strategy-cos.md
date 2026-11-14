@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [[쿠팡로지스틱스서비스] 로켓설치 서비스 운영 및 전략기획 담당자](https://www.coupang.jobs/en/jobs/?gh_jid=5923445) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 광고 사업전략 및 비즈니스 분석 담당자 (8년 이상)](https://www.coupang.jobs/en/jobs/?gh_jid=8179064) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 정산 운영 및 프로세스 개선 담당자 (신입채용, Business Operations)](https://www.coupang.jobs/en/jobs/?gh_jid=8323748) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 사업전략 및 비즈니스 분석 담당자 (Eats Business Strategy & Analytics)](https://www.coupang.jobs/en/jobs/?gh_jid=8175787) *(`greenhouse`)*
-  - **Coupang** — [Manager, Merchant Strategy & Operations](https://www.coupang.jobs/en/jobs/?gh_jid=8194644) *(`greenhouse`)*
-  - **씨제이올리브영(CJ올리브영)** — [전략기획 담당자](https://www.wanted.co.kr/wd/398187) *(`wanted`)*
+  - **Coupang** — [(쿠팡로지스틱스서비스) 로켓설치 서비스 운영 및 전략기획 담당자](https://www.coupang.jobs/en/jobs/?gh_jid=5923445) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 광고 사업전략 및 비즈니스 분석 담당자 (8년 이상)](https://www.coupang.jobs/en/jobs/?gh_jid=8179064) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 정산 운영 및 프로세스 개선 담당자 (신입채용, Business Operations)](https://www.coupang.jobs/en/jobs/?gh_jid=8323748) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 사업전략 및 비즈니스 분석 담당자 (Eats Business Strategy & Analytics)](https://www.coupang.jobs/en/jobs/?gh_jid=8175787) (`greenhouse`)
+  - **Coupang** — [Manager, Merchant Strategy & Operations](https://www.coupang.jobs/en/jobs/?gh_jid=8194644) (`greenhouse`)
+  - **씨제이올리브영(CJ올리브영)** — [전략기획 담당자](https://www.wanted.co.kr/wd/398187) (`wanted`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Strategy & Operations Programs, Support](https://jobs.ashbyhq.com/openai/9747412d-a23d-48ba-bddd-ad1247c360f5) *(`ashby`)*
-  - **OpenAI** — [Strategy & Operations Lead — SEA & ANZ](https://jobs.ashbyhq.com/openai/b1a5980d-1c52-4af5-8596-5951b584ca37) *(`ashby`)*
-  - **OpenAI** — [GTM Strategy & Operations, Professional Services](https://jobs.ashbyhq.com/openai/08e8d03a-df94-46af-8664-cd9aab1af445) *(`ashby`)*
-  - **OpenAI** — [Strategy & Operations, Germany](https://jobs.ashbyhq.com/openai/c46d8648-b921-4b71-bb9a-f7d5c8e989f4) *(`ashby`)*
-  - **OpenAI** — [Strategy & Operations Lead - Japan](https://jobs.ashbyhq.com/openai/f76d120b-7d1b-4e80-aaf8-5d2c6b38a7ca) *(`ashby`)*
-  - **Ramp** — [Manager, Scaled Customer Success Strategy & Operations](https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d) *(`ashby`)*
+  - **OpenAI** — [Strategy & Operations Programs, Support](https://jobs.ashbyhq.com/openai/9747412d-a23d-48ba-bddd-ad1247c360f5) (`ashby`)
+  - **OpenAI** — [Strategy & Operations Lead — SEA & ANZ](https://jobs.ashbyhq.com/openai/b1a5980d-1c52-4af5-8596-5951b584ca37) (`ashby`)
+  - **OpenAI** — [GTM Strategy & Operations, Professional Services](https://jobs.ashbyhq.com/openai/08e8d03a-df94-46af-8664-cd9aab1af445) (`ashby`)
+  - **OpenAI** — [Strategy & Operations, Germany](https://jobs.ashbyhq.com/openai/c46d8648-b921-4b71-bb9a-f7d5c8e989f4) (`ashby`)
+  - **OpenAI** — [Strategy & Operations Lead - Japan](https://jobs.ashbyhq.com/openai/f76d120b-7d1b-4e80-aaf8-5d2c6b38a7ca) (`ashby`)
+  - **Ramp** — [Manager, Scaled Customer Success Strategy & Operations](https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d) (`ashby`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 전사 OKR 트래킹, 주간/월간 경영 대시보드 운영 및 C레벨 회의 아젠다/후속조치 관리

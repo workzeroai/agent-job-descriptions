@@ -104,6 +104,50 @@ def validate_against_schema(spec: Dict[str, Any], schema: Dict[str, Any], role_i
     return errors
 
 
+
+def audit_markdown_files() -> List[str]:
+    """Check all Markdown files for CommonMark delimiter bugs, broken nested-bracket links, raw HTML, and table/code errors."""
+    md_errors: List[str] = []
+    for md_path in sorted(BASE_DIR.rglob("*.md")):
+        rel = md_path.relative_to(BASE_DIR)
+        lines = md_path.read_text(encoding="utf-8").splitlines()
+        in_code = False
+        for i, line in enumerate(lines, 1):
+            if line.strip().startswith("```"):
+                in_code = not in_code
+                continue
+            if in_code:
+                continue
+            if re.search(r"</?(details|summary|strong|code|br)[^>]*>", line):
+                md_errors.append(f"[MD_HTML] {rel}:{i}: raw HTML tag found")
+            if re.search(r"\[[^\]]*\[[^\]]*\][^\]]*\]\([^\)]+\)", line):
+                md_errors.append(f"[MD_LINK] {rel}:{i}: nested brackets inside link text")
+            if line.count("`") % 2 != 0:
+                md_errors.append(f"[MD_BACKTICK] {rel}:{i}: unbalanced backticks")
+            if line.count("**") % 2 != 0:
+                md_errors.append(f"[MD_BOLD_COUNT] {rel}:{i}: unbalanced **")
+            if line.strip().startswith("|") and line.strip().endswith("|"):
+                cols = line.count("|") - 1
+                if i > 1 and lines[i - 2].strip().startswith("|"):
+                    prev_cols = lines[i - 2].count("|") - 1
+                    if cols != prev_cols:
+                        md_errors.append(f"[MD_TABLE] {rel}:{i}: column count {cols} != {prev_cols}")
+            for m in re.finditer(r"(\S?)\*\*(.+?)\*\*(\S?)", line):
+                pre, inner, post = m.group(1), m.group(2), m.group(3)
+                if pre and re.match(r"[^\w가-힣]", inner[0]):
+                    md_errors.append(f"[MD_LEFT_BOLD] {rel}:{i}: {pre}**{inner}**")
+                if post and re.match(r"[^\w가-힣]", inner[-1]):
+                    md_errors.append(f"[MD_RIGHT_BOLD] {rel}:{i}: **{inner}**{post}")
+            cleaned = re.sub(r"\*\*.*?\*\*", "", line)
+            for m in re.finditer(r"(\S?)\*([^\*\s][^\*]*?)\*(\S?)", cleaned):
+                pre, inner, post = m.group(1), m.group(2), m.group(3)
+                if post and re.match(r"[^\w가-힣]", inner[-1]) and re.match(r"[\w가-힣]", post):
+                    md_errors.append(f"[MD_RIGHT_ITALIC] {rel}:{i}: *{inner}*{post}")
+        if in_code:
+            md_errors.append(f"[MD_CODE_BLOCK] {rel}: unclosed code fence")
+    return md_errors
+
+
 def main() -> int:
     errors: List[str] = []
 
@@ -172,6 +216,8 @@ def main() -> int:
     for rf in required_files:
         if not (BASE_DIR / rf).exists():
             errors.append(f"Missing required repo file: {rf}")
+
+    errors.extend(audit_markdown_files())
 
     if errors:
         print(f"\nVALIDATION FAILED with {len(errors)} errors:")

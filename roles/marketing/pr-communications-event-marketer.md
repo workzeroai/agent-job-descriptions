@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [Senior Principal/Director, Public Relations - Coupang Play](https://www.coupang.jobs/en/jobs/?gh_jid=8375920) *(`greenhouse`)*
-  - **Coupang** — [Senior PR Manager](https://www.coupang.jobs/en/jobs/?gh_jid=7840411) *(`greenhouse`)*
-  - **Toss (Toss)** — [Communications Assistant](https://toss.im/career/job-detail?job_id=5994085003) *(`toss-careers`)*
-  - **Toss (Toss)** — [커뮤니케이션 담당자 (Communications Manager)](https://toss.im/career/job-detail?job_id=7507332003) *(`toss-careers`)*
-  - **Toss (Toss)** — [커뮤니케이션 담당자 (일반계약직) (Communications Specialist)](https://toss.im/career/job-detail?job_id=8044053003) *(`toss-careers`)*
-  - **Toss (Toss)** — [Visual Designer (Brand Comms Team)](https://toss.im/career/job-detail?job_id=8006738003) *(`toss-careers`)*
+  - **Coupang** — [Senior Principal/Director, Public Relations - Coupang Play](https://www.coupang.jobs/en/jobs/?gh_jid=8375920) (`greenhouse`)
+  - **Coupang** — [Senior PR Manager](https://www.coupang.jobs/en/jobs/?gh_jid=7840411) (`greenhouse`)
+  - **Toss (Toss)** — [Communications Assistant](https://toss.im/career/job-detail?job_id=5994085003) (`toss-careers`)
+  - **Toss (Toss)** — [커뮤니케이션 담당자 (Communications Manager)](https://toss.im/career/job-detail?job_id=7507332003) (`toss-careers`)
+  - **Toss (Toss)** — [커뮤니케이션 담당자 (일반계약직) (Communications Specialist)](https://toss.im/career/job-detail?job_id=8044053003) (`toss-careers`)
+  - **Toss (Toss)** — [Visual Designer (Brand Comms Team)](https://toss.im/career/job-detail?job_id=8006738003) (`toss-careers`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Communications Lead, Cyber](https://jobs.ashbyhq.com/openai/c12ea9bc-8590-4913-a213-1977296fb3db) *(`ashby`)*
-  - **OpenAI** — [Events Manager, Brand & Communications](https://jobs.ashbyhq.com/openai/2ffdcfea-7a7c-46a1-a3d7-e9a2c598258b) *(`ashby`)*
-  - **OpenAI** — [B2B Comms Lead, EMEA](https://jobs.ashbyhq.com/openai/e0deb489-89f3-4de4-9bd8-67107b88653b) *(`ashby`)*
-  - **OpenAI** — [Infrastructure Communications Lead](https://jobs.ashbyhq.com/openai/c36abd4d-09f0-4af9-b472-45b64848886f) *(`ashby`)*
-  - **Ramp** — [Software Engineer, Backend, Comms Platform](https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228) *(`ashby`)*
-  - **Perplexity** — [Product Marketing Manager, Partnerships](https://jobs.ashbyhq.com/Perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064) *(`ashby`)*
+  - **OpenAI** — [Communications Lead, Cyber](https://jobs.ashbyhq.com/openai/c12ea9bc-8590-4913-a213-1977296fb3db) (`ashby`)
+  - **OpenAI** — [Events Manager, Brand & Communications](https://jobs.ashbyhq.com/openai/2ffdcfea-7a7c-46a1-a3d7-e9a2c598258b) (`ashby`)
+  - **OpenAI** — [B2B Comms Lead, EMEA](https://jobs.ashbyhq.com/openai/e0deb489-89f3-4de4-9bd8-67107b88653b) (`ashby`)
+  - **OpenAI** — [Infrastructure Communications Lead](https://jobs.ashbyhq.com/openai/c36abd4d-09f0-4af9-b472-45b64848886f) (`ashby`)
+  - **Ramp** — [Software Engineer, Backend, Comms Platform](https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228) (`ashby`)
+  - **Perplexity** — [Product Marketing Manager, Partnerships](https://jobs.ashbyhq.com/Perplexity/d5bc2302-202f-4596-9c4d-8720d1e79064) (`ashby`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 보도자료(Press Release), 미디어 킷, 경영진/창업자 인터뷰 Q&A 및 기고문 작성

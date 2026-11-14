@@ -19,17 +19,17 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Toss (Toss)** — [글로벌 UX 리서처 (Global UX Researcher)](https://toss.im/career/job-detail?job_id=4208133003) *(`toss-careers`)*
-  - **Toss (Toss)** — [UX 리서처 (UX Researcher)](https://toss.im/career/job-detail?job_id=8008934003) *(`toss-careers`)*
-  - **기산바이오(주)** — [미생물 배지 전문마케팅인재모집 - 양재동 근무](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55101325&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85&searchType=search&paid_fl=y&search_uuid=5e1b3d30-33fa-4145-86fc-e3a042383aa8) *(`saramin`)*
-  - **(주)파마리서치** — [2026년 파마리서치신입/경력 수시채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53078923&location=ts&searchword=%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=5518cbc2-b232-4a3f-ad79-f294a21694b0) *(`saramin`)*
-  - **에셋플러스자산운용(주)** — [2026년도 하반기리서치직무 신입 직원 및 마케팅·준법감시 직무 경력직원 채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55544880&location=ts&searchword=%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=5518cbc2-b232-4a3f-ad79-f294a21694b0) *(`saramin`)*
-  - **넥스트리서치(주)** — [[공공분야]리서치연구원(신입) 채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55556944&location=ts&searchword=%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=5518cbc2-b232-4a3f-ad79-f294a21694b0) *(`saramin`)*
+  - **Toss (Toss)** — [글로벌 UX 리서처 (Global UX Researcher)](https://toss.im/career/job-detail?job_id=4208133003) (`toss-careers`)
+  - **Toss (Toss)** — [UX 리서처 (UX Researcher)](https://toss.im/career/job-detail?job_id=8008934003) (`toss-careers`)
+  - **기산바이오(주)** — [미생물 배지 전문마케팅인재모집 - 양재동 근무](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55101325&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85&searchType=search&paid_fl=y&search_uuid=5e1b3d30-33fa-4145-86fc-e3a042383aa8) (`saramin`)
+  - **(주)파마리서치** — [2026년 파마리서치신입/경력 수시채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=53078923&location=ts&searchword=%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=5518cbc2-b232-4a3f-ad79-f294a21694b0) (`saramin`)
+  - **에셋플러스자산운용(주)** — [2026년도 하반기리서치직무 신입 직원 및 마케팅·준법감시 직무 경력직원 채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55544880&location=ts&searchword=%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=5518cbc2-b232-4a3f-ad79-f294a21694b0) (`saramin`)
+  - **넥스트리서치(주)** — [(공공분야)리서치연구원(신입) 채용](https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55556944&location=ts&searchword=%EB%A6%AC%EC%84%9C%EC%B9%98&searchType=search&paid_fl=n&search_uuid=5518cbc2-b232-4a3f-ad79-f294a21694b0) (`saramin`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Market Research Lead, ChatGPT](https://jobs.ashbyhq.com/openai/e8ab15cc-f1f9-43cd-8658-e51d925af98c) *(`ashby`)*
-  - **Notion** — [Product Operations Manager](https://jobs.ashbyhq.com/notion/8b82e596-e828-45db-94d5-b76acc89e749) *(`ashby`)*
-  - **Airbnb** — [Consumer Insights Lead](https://careers.airbnb.com/positions/8356835?gh_jid=8356835) *(`greenhouse`)*
-  - **Airbnb** — [Senior Principal, Competitive Intelligence](https://careers.airbnb.com/positions/8053756?gh_jid=8053756) *(`greenhouse`)*
+  - **OpenAI** — [Market Research Lead, ChatGPT](https://jobs.ashbyhq.com/openai/e8ab15cc-f1f9-43cd-8658-e51d925af98c) (`ashby`)
+  - **Notion** — [Product Operations Manager](https://jobs.ashbyhq.com/notion/8b82e596-e828-45db-94d5-b76acc89e749) (`ashby`)
+  - **Airbnb** — [Consumer Insights Lead](https://careers.airbnb.com/positions/8356835?gh_jid=8356835) (`greenhouse`)
+  - **Airbnb** — [Senior Principal, Competitive Intelligence](https://careers.airbnb.com/positions/8053756?gh_jid=8053756) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 경쟁사 가격·기능·광고 소재(Meta Ad Library)·메시징 변화 상시 모니터링 및 배틀카드 업데이트

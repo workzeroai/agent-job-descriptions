@@ -19,14 +19,14 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **지에스피트레이딩** — [뷰티 툴 브랜드 마케터](https://www.wanted.co.kr/wd/398088) *(`wanted`)*
-  - **유한코스메틱** — [[유한양행 자회사] 더이유(THE·I·YU) 뷰티 브랜드 마케터](https://www.wanted.co.kr/wd/397780) *(`wanted`)*
-  - **베베홀딩컴퍼니** — [리틀펄리 브랜드 마케터](https://www.wanted.co.kr/wd/397376) *(`wanted`)*
-  - **헤렌** — [[공비서] 뷰티 브랜드 마케터 (보이델라·힐닷)](https://www.wanted.co.kr/wd/397282) *(`wanted`)*
-  - **피알티엔** — [[프로티너 본사] 브랜드 마케터 (대리~과차장급)](https://www.wanted.co.kr/wd/397274) *(`wanted`)*
-  - **아이리스브라이트** — [미국 브랜드 마케터](https://www.wanted.co.kr/wd/396943) *(`wanted`)*
+  - **지에스피트레이딩** — [뷰티 툴 브랜드 마케터](https://www.wanted.co.kr/wd/398088) (`wanted`)
+  - **유한코스메틱** — [(유한양행 자회사) 더이유(THE·I·YU) 뷰티 브랜드 마케터](https://www.wanted.co.kr/wd/397780) (`wanted`)
+  - **베베홀딩컴퍼니** — [리틀펄리 브랜드 마케터](https://www.wanted.co.kr/wd/397376) (`wanted`)
+  - **헤렌** — [(공비서) 뷰티 브랜드 마케터 (보이델라·힐닷)](https://www.wanted.co.kr/wd/397282) (`wanted`)
+  - **피알티엔** — [(프로티너 본사) 브랜드 마케터 (대리~과차장급)](https://www.wanted.co.kr/wd/397274) (`wanted`)
+  - **아이리스브라이트** — [미국 브랜드 마케터](https://www.wanted.co.kr/wd/396943) (`wanted`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **Anthropic** — [Brand Strategy Lead, Brand Architecture & Naming](https://job-boards.greenhouse.io/anthropic/jobs/5475321008) *(`greenhouse`)*
+  - **Anthropic** — [Brand Strategy Lead, Brand Architecture & Naming](https://job-boards.greenhouse.io/anthropic/jobs/5475321008) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 브랜드 포지셔닝, 핵심 가치 제안(Value Proposition), 타겟별 메시징 하우스(Messaging Matrix) 수립

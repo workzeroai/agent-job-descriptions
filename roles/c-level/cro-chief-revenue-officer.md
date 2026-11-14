@@ -21,8 +21,8 @@
 - **국내 (KR) 수집 공고 샘플:**
   - *(직접 크롤링 매칭 공고 0건 — `raw-data/PENDING_ASIDE_CLI.md`의 리멤버/당근/점핏 큐 참조 및 글로벌 C레벨/전문직 공고로 교차 보완)*
 - **해외 (Global) 수집 공고 샘플:**
-  - **Cohere** — [VP of Sales - Public Sector](https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13) *(`ashby`)*
-  - **Stripe** — [Partner Solutions Engineer, Ecosystem](https://stripe.com/jobs/search?gh_jid=8227563) *(`greenhouse`)*
+  - **Cohere** — [VP of Sales - Public Sector](https://jobs.ashbyhq.com/cohere/49a6485c-c449-4e07-8001-cafc97a39a13) (`ashby`)
+  - **Stripe** — [Partner Solutions Engineer, Ecosystem](https://stripe.com/jobs/search?gh_jid=8227563) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 전사 연간/분기 매출 목표(ARR/GMV) 수립 및 마케팅-세일즈-CS 간 SLA(MQL→SQL→Closed-Won) 정의

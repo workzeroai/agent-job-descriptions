@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [[쿠팡] 로켓그로스 마케팅 스페셜리스트 (1년 계약직)](https://www.coupang.jobs/en/jobs/?gh_jid=8323974) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡로지스틱스서비스] 채용 퍼포먼스 마케터 (경력 3년~)](https://www.coupang.jobs/en/jobs/?gh_jid=8302728) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡페이] 신사업 그로스 마케팅 담당자 채용(경력 7년 이상) (Rocket Pay)](https://www.coupang.jobs/en/jobs/?gh_jid=8284612) *(`greenhouse`)*
-  - **Coupang** — [Director, Category Growth Marketing](https://www.coupang.jobs/en/jobs/?gh_jid=8104761) *(`greenhouse`)*
-  - **Coupang** — [[Growth Marketing] Sr. Staff Back-end Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8221841) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡이츠서비스] Rider 퍼포먼스 마케터](https://www.coupang.jobs/en/jobs/?gh_jid=8358351) *(`greenhouse`)*
+  - **Coupang** — [(쿠팡) 로켓그로스 마케팅 스페셜리스트 (1년 계약직)](https://www.coupang.jobs/en/jobs/?gh_jid=8323974) (`greenhouse`)
+  - **Coupang** — [(쿠팡로지스틱스서비스) 채용 퍼포먼스 마케터 (경력 3년~)](https://www.coupang.jobs/en/jobs/?gh_jid=8302728) (`greenhouse`)
+  - **Coupang** — [(쿠팡페이) 신사업 그로스 마케팅 담당자 채용(경력 7년 이상) (Rocket Pay)](https://www.coupang.jobs/en/jobs/?gh_jid=8284612) (`greenhouse`)
+  - **Coupang** — [Director, Category Growth Marketing](https://www.coupang.jobs/en/jobs/?gh_jid=8104761) (`greenhouse`)
+  - **Coupang** — [(Growth Marketing) Sr. Staff Back-end Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8221841) (`greenhouse`)
+  - **Coupang** — [(쿠팡이츠서비스) Rider 퍼포먼스 마케터](https://www.coupang.jobs/en/jobs/?gh_jid=8358351) (`greenhouse`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Growth Marketing Manager - Web & Organic, SMB Ads](https://jobs.ashbyhq.com/openai/9fac9e21-ee83-487a-a537-297a0666a85d) *(`ashby`)*
-  - **OpenAI** — [Growth Marketing, Creative and Ad Operations](https://jobs.ashbyhq.com/openai/1ae64ddb-505f-4ad2-a731-3a857e94edee) *(`ashby`)*
-  - **OpenAI** — [Head of Performance Marketing](https://jobs.ashbyhq.com/openai/cf0516c9-5227-4d7c-a8e9-219a4ac52422) *(`ashby`)*
-  - **OpenAI** — [Growth Marketing Lead, EMEA](https://jobs.ashbyhq.com/openai/7d10d614-dc7c-427f-abc1-9a4d4ef7a82f) *(`ashby`)*
-  - **Ramp** — [Performance Marketing Manager](https://jobs.ashbyhq.com/ramp/f4545aaa-c98b-4134-b250-f12dc46ad6a8) *(`ashby`)*
-  - **Notion** — [AI Product Manager, Growth Marketing](https://jobs.ashbyhq.com/notion/11e56782-ee28-4025-ba0e-76222b0bfcea) *(`ashby`)*
+  - **OpenAI** — [Growth Marketing Manager - Web & Organic, SMB Ads](https://jobs.ashbyhq.com/openai/9fac9e21-ee83-487a-a537-297a0666a85d) (`ashby`)
+  - **OpenAI** — [Growth Marketing, Creative and Ad Operations](https://jobs.ashbyhq.com/openai/1ae64ddb-505f-4ad2-a731-3a857e94edee) (`ashby`)
+  - **OpenAI** — [Head of Performance Marketing](https://jobs.ashbyhq.com/openai/cf0516c9-5227-4d7c-a8e9-219a4ac52422) (`ashby`)
+  - **OpenAI** — [Growth Marketing Lead, EMEA](https://jobs.ashbyhq.com/openai/7d10d614-dc7c-427f-abc1-9a4d4ef7a82f) (`ashby`)
+  - **Ramp** — [Performance Marketing Manager](https://jobs.ashbyhq.com/ramp/f4545aaa-c98b-4134-b250-f12dc46ad6a8) (`ashby`)
+  - **Notion** — [AI Product Manager, Growth Marketing](https://jobs.ashbyhq.com/notion/11e56782-ee28-4025-ba0e-76222b0bfcea) (`ashby`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 유료 광고 매체(Meta, Google/YouTube, TikTok, Naver SA/GFA, Kakao, Apple Search Ads) 캠페인 구조 설계 및 입찰/예산 최적화

@@ -21,9 +21,9 @@
 - **국내 (KR) 수집 공고 샘플:**
   - *(직접 크롤링 매칭 공고 0건 — `raw-data/PENDING_ASIDE_CLI.md`의 리멤버/당근/점핏 큐 참조 및 글로벌 C레벨/전문직 공고로 교차 보완)*
 - **해외 (Global) 수집 공고 샘플:**
-  - **Supabase** — [Growth Manager, GEO / AEO](https://jobs.ashbyhq.com/supabase/d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5) *(`ashby`)*
-  - **Stripe** — [Head of AEO & SEO](https://stripe.com/jobs/search?gh_jid=8128634) *(`greenhouse`)*
-  - **Airbnb** — [Senior Growth Marketing Lead (SEO, AEO, GEO)](https://careers.airbnb.com/positions/8280719?gh_jid=8280719) *(`greenhouse`)*
+  - **Supabase** — [Growth Manager, GEO / AEO](https://jobs.ashbyhq.com/supabase/d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5) (`ashby`)
+  - **Stripe** — [Head of AEO & SEO](https://stripe.com/jobs/search?gh_jid=8128634) (`greenhouse`)
+  - **Airbnb** — [Senior Growth Marketing Lead (SEO, AEO, GEO)](https://careers.airbnb.com/positions/8280719?gh_jid=8280719) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 검색 의도(Transactional/Informational) 및 AI 프롬프트 질문 패턴 기반 키워드·토픽 클러스터 설계

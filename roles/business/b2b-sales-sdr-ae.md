@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [[쿠팡] 이츠 사업개발 및 제휴 팀장 ](https://www.coupang.jobs/en/jobs/?gh_jid=8242173) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 마켓플레이스 세일즈 담당자 (경력 1년~)](https://www.coupang.jobs/en/jobs/?gh_jid=8333362) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 이츠 세일즈 대규모 채용 (계약직/인센티브/성장지원금 100만원/면접비 지급)](https://www.coupang.jobs/en/jobs/?gh_jid=8370776) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡] 셀러 세일즈 매니저 (경력 3년~)](https://www.coupang.jobs/en/jobs/?gh_jid=8203393) *(`greenhouse`)*
-  - **Coupang** — [B2B Sales Representative](https://www.coupang.jobs/en/jobs/?gh_jid=8050485) *(`greenhouse`)*
-  - **Coupang** — [[Coupang Ads] Senior Product Specialist (GTM 전략/세일즈)](https://www.coupang.jobs/en/jobs/?gh_jid=8351543) *(`greenhouse`)*
+  - **Coupang** — [(쿠팡) 이츠 사업개발 및 제휴 팀장](https://www.coupang.jobs/en/jobs/?gh_jid=8242173) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 마켓플레이스 세일즈 담당자 (경력 1년~)](https://www.coupang.jobs/en/jobs/?gh_jid=8333362) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 이츠 세일즈 대규모 채용 (계약직/인센티브/성장지원금 100만원/면접비 지급)](https://www.coupang.jobs/en/jobs/?gh_jid=8370776) (`greenhouse`)
+  - **Coupang** — [(쿠팡) 셀러 세일즈 매니저 (경력 3년~)](https://www.coupang.jobs/en/jobs/?gh_jid=8203393) (`greenhouse`)
+  - **Coupang** — [B2B Sales Representative](https://www.coupang.jobs/en/jobs/?gh_jid=8050485) (`greenhouse`)
+  - **Coupang** — [(Coupang Ads) Senior Product Specialist (GTM 전략/세일즈)](https://www.coupang.jobs/en/jobs/?gh_jid=8351543) (`greenhouse`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Sales Development Manager, Enterprise (AMER)](https://jobs.ashbyhq.com/openai/dd48e74c-b08e-4527-8d1a-9297856b015a) *(`ashby`)*
-  - **OpenAI** — [Sales Development Leader - Tokyo](https://jobs.ashbyhq.com/openai/824f12fe-dd33-4d3c-afe8-5ac75e82def4) *(`ashby`)*
-  - **OpenAI** — [SDR Manager](https://jobs.ashbyhq.com/openai/d02ce96c-2a8b-4871-860d-d59a19a2369f) *(`ashby`)*
-  - **OpenAI** — [Sales Development Leader,  Singapore](https://jobs.ashbyhq.com/openai/16596d69-1e40-499b-9d62-13e6f6a498de) *(`ashby`)*
-  - **Linear** — [Account Executive, Startups](https://jobs.ashbyhq.com/linear/c21af93e-210f-4969-8eaa-90fb16a5b720) *(`ashby`)*
-  - **Linear** — [Account Executive, Growth ](https://jobs.ashbyhq.com/linear/cb8e77a6-4316-45c6-ac8d-7ade980cd65e) *(`ashby`)*
+  - **OpenAI** — [Sales Development Manager, Enterprise (AMER)](https://jobs.ashbyhq.com/openai/dd48e74c-b08e-4527-8d1a-9297856b015a) (`ashby`)
+  - **OpenAI** — [Sales Development Leader - Tokyo](https://jobs.ashbyhq.com/openai/824f12fe-dd33-4d3c-afe8-5ac75e82def4) (`ashby`)
+  - **OpenAI** — [SDR Manager](https://jobs.ashbyhq.com/openai/d02ce96c-2a8b-4871-860d-d59a19a2369f) (`ashby`)
+  - **OpenAI** — [Sales Development Leader, Singapore](https://jobs.ashbyhq.com/openai/16596d69-1e40-499b-9d62-13e6f6a498de) (`ashby`)
+  - **Linear** — [Account Executive, Startups](https://jobs.ashbyhq.com/linear/c21af93e-210f-4969-8eaa-90fb16a5b720) (`ashby`)
+  - **Linear** — [Account Executive, Growth](https://jobs.ashbyhq.com/linear/cb8e77a6-4316-45c6-ac8d-7ade980cd65e) (`ashby`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - ICP 기반 잠재 고객사 리스팅, 연락처/기업 시그널(채용·투자·기술스택) 인리치먼트

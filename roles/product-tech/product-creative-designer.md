@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [Staff Product Designer](https://www.coupang.jobs/en/jobs/?gh_jid=8124630) *(`greenhouse`)*
-  - **Coupang** — [Staff Product Designer（FinTech UX）](https://www.coupang.jobs/en/jobs/?gh_jid=8124349) *(`greenhouse`)*
-  - **Coupang** — [Staff Product Designer (Marketplace)](https://www.coupang.jobs/en/jobs/?gh_jid=8210468) *(`greenhouse`)*
-  - **Coupang** — [Staff Product Designer (Rocket Growth)](https://www.coupang.jobs/en/jobs/?gh_jid=8187897) *(`greenhouse`)*
-  - **Coupang** — [[쿠팡페이] Staff UI/UX Designer (신사업)](https://www.coupang.jobs/en/jobs/?gh_jid=8242169) *(`greenhouse`)*
-  - **마카롱팩토리(마이클)** — [프로덕트 디자이너 (5년 이상)](https://www.wanted.co.kr/wd/398089) *(`wanted`)*
+  - **Coupang** — [Staff Product Designer](https://www.coupang.jobs/en/jobs/?gh_jid=8124630) (`greenhouse`)
+  - **Coupang** — [Staff Product Designer（FinTech UX）](https://www.coupang.jobs/en/jobs/?gh_jid=8124349) (`greenhouse`)
+  - **Coupang** — [Staff Product Designer (Marketplace)](https://www.coupang.jobs/en/jobs/?gh_jid=8210468) (`greenhouse`)
+  - **Coupang** — [Staff Product Designer (Rocket Growth)](https://www.coupang.jobs/en/jobs/?gh_jid=8187897) (`greenhouse`)
+  - **Coupang** — [(쿠팡페이) Staff UI/UX Designer (신사업)](https://www.coupang.jobs/en/jobs/?gh_jid=8242169) (`greenhouse`)
+  - **마카롱팩토리(마이클)** — [프로덕트 디자이너 (5년 이상)](https://www.wanted.co.kr/wd/398089) (`wanted`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Product Designer, People Innovation Labs](https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d) *(`ashby`)*
-  - **OpenAI** — [Product Designer, Growth](https://jobs.ashbyhq.com/openai/3d71df2d-7d19-4ca9-97c4-b361c8a362f9) *(`ashby`)*
-  - **OpenAI** — [Product Designer, Payments](https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc) *(`ashby`)*
-  - **OpenAI** — [Product Designer, Engineering Acceleration](https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4) *(`ashby`)*
-  - **OpenAI** — [Product Designer, Accessibility](https://jobs.ashbyhq.com/openai/2ace6bbe-a7ac-4930-bcdc-14c618179b1f) *(`ashby`)*
-  - **OpenAI** — [Product Designer, Higher Education](https://jobs.ashbyhq.com/openai/4885f56d-9f59-4c40-81d8-c33a167cb26c) *(`ashby`)*
+  - **OpenAI** — [Product Designer, People Innovation Labs](https://jobs.ashbyhq.com/openai/3874db80-f3ec-4dd1-8d56-6441e8f7299d) (`ashby`)
+  - **OpenAI** — [Product Designer, Growth](https://jobs.ashbyhq.com/openai/3d71df2d-7d19-4ca9-97c4-b361c8a362f9) (`ashby`)
+  - **OpenAI** — [Product Designer, Payments](https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc) (`ashby`)
+  - **OpenAI** — [Product Designer, Engineering Acceleration](https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4) (`ashby`)
+  - **OpenAI** — [Product Designer, Accessibility](https://jobs.ashbyhq.com/openai/2ace6bbe-a7ac-4930-bcdc-14c618179b1f) (`ashby`)
+  - **OpenAI** — [Product Designer, Higher Education](https://jobs.ashbyhq.com/openai/4885f56d-9f59-4c40-81d8-c33a167cb26c) (`ashby`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 디자인 시스템(컴포넌트·토큰·타이포그래피·컬러) 구축 및 프로덕트/마케팅 전반 일관성 유지

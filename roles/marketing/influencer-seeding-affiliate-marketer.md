@@ -19,17 +19,17 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [Affiliate B2B Account Manager](https://www.coupang.jobs/en/jobs/?gh_jid=8146802) *(`greenhouse`)*
-  - **Coupang** — [Principal, B2B Affiliate Account Management](https://www.coupang.jobs/en/jobs/?gh_jid=7756913) *(`greenhouse`)*
-  - **Coupang** — [Principal, Creator & Affiliate Partnerships](https://www.coupang.jobs/en/jobs/?gh_jid=8248624) *(`greenhouse`)*
-  - **Coupang** — [Senior Creator & Affiliate Marketing Specialist / 資深創作者暨聯盟行銷專員](https://www.coupang.jobs/en/jobs/?gh_jid=8143586) *(`greenhouse`)*
-  - **바이닥터** — [[약국] 인플루언서 마케터](https://www.wanted.co.kr/wd/398215) *(`wanted`)*
-  - **피코브** — [인플루언서 마켓 운영매니저](https://www.wanted.co.kr/wd/398165) *(`wanted`)*
+  - **Coupang** — [Affiliate B2B Account Manager](https://www.coupang.jobs/en/jobs/?gh_jid=8146802) (`greenhouse`)
+  - **Coupang** — [Principal, B2B Affiliate Account Management](https://www.coupang.jobs/en/jobs/?gh_jid=7756913) (`greenhouse`)
+  - **Coupang** — [Principal, Creator & Affiliate Partnerships](https://www.coupang.jobs/en/jobs/?gh_jid=8248624) (`greenhouse`)
+  - **Coupang** — [Senior Creator & Affiliate Marketing Specialist / 資深創作者暨聯盟行銷專員](https://www.coupang.jobs/en/jobs/?gh_jid=8143586) (`greenhouse`)
+  - **바이닥터** — [(약국) 인플루언서 마케터](https://www.wanted.co.kr/wd/398215) (`wanted`)
+  - **피코브** — [인플루언서 마켓 운영매니저](https://www.wanted.co.kr/wd/398165) (`wanted`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **OpenAI** — [Product Content Creator](https://jobs.ashbyhq.com/openai/67c67c36-e710-4f21-bd9c-759eb72cfabf) *(`ashby`)*
-  - **ElevenLabs** — [Influencer Marketer](https://jobs.ashbyhq.com/ElevenLabs/ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9) *(`ashby`)*
-  - **Airbnb** — [Senior Growth Marketing Manager, Influencer Affiliates ](https://careers.airbnb.com/positions/8329389?gh_jid=8329389) *(`greenhouse`)*
-  - **Airbnb** — [Senior Influencer Manager](https://careers.airbnb.com/positions/8351393?gh_jid=8351393) *(`greenhouse`)*
+  - **OpenAI** — [Product Content Creator](https://jobs.ashbyhq.com/openai/67c67c36-e710-4f21-bd9c-759eb72cfabf) (`ashby`)
+  - **ElevenLabs** — [Influencer Marketer](https://jobs.ashbyhq.com/ElevenLabs/ba1c19cc-3b0e-4f3e-b7c1-a96d5fb4bbf9) (`ashby`)
+  - **Airbnb** — [Senior Growth Marketing Manager, Influencer Affiliates](https://careers.airbnb.com/positions/8329389?gh_jid=8329389) (`greenhouse`)
+  - **Airbnb** — [Senior Influencer Manager](https://careers.airbnb.com/positions/8351393?gh_jid=8351393) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - 타겟 오디언스 핏(조회수, 참여율 ER, 가짜 팔로워 필터링) 기반 크리에이터 발굴 및 등급화(Nano/Micro/Macro)

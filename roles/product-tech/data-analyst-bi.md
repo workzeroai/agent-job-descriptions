@@ -19,19 +19,19 @@
 
 ### 분석에 반영된 실제 채용 공고 레퍼런스
 - **국내 (KR) 수집 공고 샘플:**
-  - **Coupang** — [[Coupang Pay] Staff Data Analyst](https://www.coupang.jobs/en/jobs/?gh_jid=8260755) *(`greenhouse`)*
-  - **Coupang** — [Data Analyst (TW Logistics)](https://www.coupang.jobs/en/jobs/?gh_jid=8027719) *(`greenhouse`)*
-  - **Coupang** — [[Pricing&Retail] Staff Data Analyst](https://www.coupang.jobs/en/jobs/?gh_jid=8154969) *(`greenhouse`)*
-  - **Coupang** — [Senior Data Analyst, Growth Marketing](https://www.coupang.jobs/en/jobs/?gh_jid=8203574) *(`greenhouse`)*
-  - **Coupang** — [Senior Data Analyst (Logistics)](https://www.coupang.jobs/en/jobs/?gh_jid=8025468) *(`greenhouse`)*
-  - **Coupang** — [Senior Data Analyst - Logistics Middle Mile](https://www.coupang.jobs/en/jobs/?gh_jid=8172714) *(`greenhouse`)*
+  - **Coupang** — [(Coupang Pay) Staff Data Analyst](https://www.coupang.jobs/en/jobs/?gh_jid=8260755) (`greenhouse`)
+  - **Coupang** — [Data Analyst (TW Logistics)](https://www.coupang.jobs/en/jobs/?gh_jid=8027719) (`greenhouse`)
+  - **Coupang** — [(Pricing&Retail) Staff Data Analyst](https://www.coupang.jobs/en/jobs/?gh_jid=8154969) (`greenhouse`)
+  - **Coupang** — [Senior Data Analyst, Growth Marketing](https://www.coupang.jobs/en/jobs/?gh_jid=8203574) (`greenhouse`)
+  - **Coupang** — [Senior Data Analyst (Logistics)](https://www.coupang.jobs/en/jobs/?gh_jid=8025468) (`greenhouse`)
+  - **Coupang** — [Senior Data Analyst - Logistics Middle Mile](https://www.coupang.jobs/en/jobs/?gh_jid=8172714) (`greenhouse`)
 - **해외 (Global) 수집 공고 샘플:**
-  - **Linear** — [Analytics Engineer](https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1) *(`ashby`)*
-  - **Perplexity** — [Member of Data Staff (Analytics Engineer)](https://jobs.ashbyhq.com/Perplexity/71abd198-5a69-4837-aa59-df8eeb9e02eb) *(`ashby`)*
-  - **ElevenLabs** — [Analytics Engineer](https://jobs.ashbyhq.com/ElevenLabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f) *(`ashby`)*
-  - **Stripe** — [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) *(`greenhouse`)*
-  - **Stripe** — [Data Analyst](https://stripe.com/jobs/search?gh_jid=5416444) *(`greenhouse`)*
-  - **Stripe** — [Data Analyst, Global Growth](https://stripe.com/jobs/search?gh_jid=8230296) *(`greenhouse`)*
+  - **Linear** — [Analytics Engineer](https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1) (`ashby`)
+  - **Perplexity** — [Member of Data Staff (Analytics Engineer)](https://jobs.ashbyhq.com/Perplexity/71abd198-5a69-4837-aa59-df8eeb9e02eb) (`ashby`)
+  - **ElevenLabs** — [Analytics Engineer](https://jobs.ashbyhq.com/ElevenLabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f) (`ashby`)
+  - **Stripe** — [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566) (`greenhouse`)
+  - **Stripe** — [Data Analyst](https://stripe.com/jobs/search?gh_jid=5416444) (`greenhouse`)
+  - **Stripe** — [Data Analyst, Global Growth](https://stripe.com/jobs/search?gh_jid=8230296) (`greenhouse`)
 
 ### 공통 핵심 과업 (70%+ Consensus Core)
 - SQL/dbt 기반 마케팅·프로덕트·매출 데이터 마트 설계 및 지표 정의(Metrics Layer) 통일
