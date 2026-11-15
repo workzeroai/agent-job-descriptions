@@ -25,6 +25,14 @@
    - 사람/아키텍트 가독용 `roles/{category}/{role_id}.md`
    - 에이전트 런타임/프레임워크 주입용 `specs/{category}/{role_id}.agent.yaml` & `.agent.json`
 
+### 한눈에 보는 아키텍처 시각화 (Obsidian Excalidraw)
+
+![100% 자율 마케팅 7단계 파이프라인](assets/excalidraw/04-full-marketing-pipeline.png)
+
+![L1~L4 직급별 에이전트 계층 구조](assets/excalidraw/05-seniority-l1-to-l4-hierarchy.png)
+
+> ✏️ Obsidian에서 직접 수정하려면 `assets/excalidraw/*.excalidraw` 파일을 여세요.
+
 ---
 
 ## 레포지토리 구조
@@ -36,6 +44,8 @@ agent-job-descriptions/
 ├── schemas/
 │   ├── agent-spec.schema.json             # YAML/JSON 에이전트 스펙 표준 JSON Schema
 │   └── role-template.md                   # 직무기술서 Markdown 표준 템플릿
+├── assets/
+│   └── excalidraw/                        # 모바일/Obsidian용 아키텍처 시각화 (.png + .excalidraw)
 ├── workflows/
 │   └── full-marketing-engine.yaml         # CMO + 9개 마케팅 + BI/디자인/세일즈 연동 블루프린트
 ├── seniority-levels/                      # 직급별 에이전트 행동/권한 모듈 (L1~L4)
@@ -108,6 +118,8 @@ agent-job-descriptions/
 ---
 
 ## 에이전트 조립(Composition) 가이드
+
+![에이전트 조립 공식 및 첫 3인 마케팅 스쿼드](assets/excalidraw/06-agent-composition-and-squad.png)
 
 에이전트를 생성할 때 아래 3가지 레이어를 조합해 시스템 프롬프트와 도구 권한을 구성합니다:
 

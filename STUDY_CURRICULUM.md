@@ -14,13 +14,9 @@
 
 우리가 만든 레포지토리(`agent-job-descriptions`)가 전체 AI 에이전트 생태계에서 어디에 위치하는지 한눈에 보세요.
 
-```mermaid
-flowchart TD
-    BRAIN["1단계 두뇌 - ChatGPT, Claude, Gemini, Grok"] --> HANDS["2단계 손과 발 - 클라우드 PC, 브라우저, 터미널, MCP"]
-    HANDS --> JD["3단계 직무기술서 - Role + 직급 L1~L4 + 입출력 I/O"]
-    JD --> TEAM["4단계 팀 오케스트레이션 - 리서처 -> 카피 -> 검수 -> 인간 승인"]
-    TEAM --> LOOP["5단계 자가 학습 루프 - 역공학 + 오답노트 + 스킬 라이브러리"]
-```
+![5단계 AI 에이전트 생태계 큰 그림](assets/excalidraw/01-big-picture-stack.png)
+
+> ✏️ Obsidian Excalidraw 원본 파일: [01-big-picture-stack.excalidraw](assets/excalidraw/01-big-picture-stack.excalidraw)
 
 **핵심 깨달음 하나만 잡고 가세요:**
 * 예전의 AI(ChatGPT 채팅)는 **"말만 잘하는 자문위원"이었습니다.**
@@ -63,6 +59,10 @@ flowchart TD
 ---
 
 ### 🟡 Level 2 (3~5일차): 왜 봇을 ‘혼자’ 두지 말고 ‘팀(조직)’으로 묶어야 할까?
+
+![챗봇 vs 단일 에이전트 vs 에이전트 팀 비교](assets/excalidraw/02-chatbot-vs-agent-vs-team.png)
+
+> ✏️ Obsidian Excalidraw 원본 파일: [02-chatbot-vs-agent-vs-team.excalidraw](assets/excalidraw/02-chatbot-vs-agent-vs-team.excalidraw)
 
 #### 💡 쉬운 비유
 아무리 천재 직원이라도 혼자서 **시장조사 + 브랜드 기획 + 카피 20개 작성 + 이미지 디자인 + 광고 세팅 + 데이터 검증**을 한꺼번에 시키면 어떻게 될까요?
@@ -109,14 +109,9 @@ flowchart TD
 
 정답은 **"내가 직접 가르치지 말고, 봇이 스스로 시장에서 배우고 오답노트를 쓰게 시스템을 짜주는 것"입니다.** 이를 가능하게 하는 4가지 핵심 메커니즘을 공부하세요.
 
-```mermaid
-flowchart LR
-    G["1. 잘된 결과물 50개 입력"] --> D["2. 봇이 성공 패턴 역공학"]
-    D --> RUN["3. 실무 실행"]
-    RUN --> KPI["4. 실제 성과 + L2 Critic 평가"]
-    KPI -->|실패 시| REF["5. Reflexion 오답노트 기록"]
-    KPI -->|성공 시| SKILL["6. Skill Library 영구 보관"]
-```
+![암묵지 자가학습 4대 루프](assets/excalidraw/03-tacit-knowledge-loop.png)
+
+> ✏️ Obsidian Excalidraw 원본 파일: [03-tacit-knowledge-loop.excalidraw](assets/excalidraw/03-tacit-knowledge-loop.excalidraw)
 
 #### 🔑 암묵지 극복을 위한 4가지 무기
 1. **역공학 (Reverse Engineering):** 내가 카피 쓰는 법을 몰라도, 봇에게 “경쟁사 메타 광고 라이브러리에서 30일 이상 살아남은(잘 팔리는) 광고 50개를 긁어와서, 왜 잘 팔리는지 훅/논리/CTA 패턴을 추출해”라고 시키면 봇이 스스로 고수의 규칙을 만들어냅니다.
@@ -145,6 +140,10 @@ flowchart LR
 
 이론을 다 이해했다면, **18개 직무를 한 번에 다 띄우려고 하지 마세요.** 100% 지칩니다.
 가장 작고 즉각적인 성과가 나오는 **3인 미니 스쿼드(3-Agent Pod)** 로 시작해 하나씩 붙이세요.
+
+![에이전트 조립 공식 및 첫 3인 마케팅 스쿼드](assets/excalidraw/06-agent-composition-and-squad.png)
+
+> ✏️ Obsidian Excalidraw 원본 파일: [06-agent-composition-and-squad.excalidraw](assets/excalidraw/06-agent-composition-and-squad.excalidraw)
 
 #### 🐣 1단계: 가장 쉬운 ‘3인 마케팅 스쿼드’부터 테스트하기
 지금 쓰시는 에이전트(Antigravity, Claude Code, Codex 등)에게 우리 레포지토리의 스펙 파일 3개만 읽히고 일을 시켜보는 겁니다.

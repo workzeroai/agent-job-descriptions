@@ -10,6 +10,14 @@
 
 ## 🚀 1. 100% 자율 마케팅 & 전사 협업 흐름 (7단계)
 
+![100% 자율 마케팅 7단계 파이프라인](assets/excalidraw/04-full-marketing-pipeline.png)
+
+> ✏️ Excalidraw 원본: [04-full-marketing-pipeline.excalidraw](assets/excalidraw/04-full-marketing-pipeline.excalidraw)
+
+![L1~L4 직급별 에이전트 계층 구조](assets/excalidraw/05-seniority-l1-to-l4-hierarchy.png)
+
+> ✏️ Excalidraw 원본: [05-seniority-l1-to-l4-hierarchy.excalidraw](assets/excalidraw/05-seniority-l1-to-l4-hierarchy.excalidraw)
+
 1. **목표·예산 배분:** `CMO (L4)` + `CRO` + `BizOps` → 분기 OKR 및 채널 예산 확정
 2. **시장·소비자 인텔리전스:** `시장·트렌드 리서처` + `데이터 분석가` → ICP·배틀카드·주간 밈 레이더 공급
 3. **브랜드 포지셔닝·전략:** `브랜드 마케터` → 톤앤매너 가드레일 & 통합 캠페인(IMC) 브리프 발행

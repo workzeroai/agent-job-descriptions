@@ -120,6 +120,12 @@ def audit_markdown_files() -> List[str]:
                 continue
             if re.search(r"</?(details|summary|strong|code|br)[^>]*>", line):
                 md_errors.append(f"[MD_HTML] {rel}:{i}: raw HTML tag found")
+            for m in re.finditer(r"!\[[^\]]*\]\(([^\)]+)\)", line):
+                img_rel = m.group(1)
+                if not img_rel.startswith("http"):
+                    img_abs = (md_path.parent / img_rel).resolve()
+                    if not img_abs.exists():
+                        md_errors.append(f"[MD_IMG_MISSING] {rel}:{i}: missing image {img_rel}")
             if re.search(r"\[[^\]]*\[[^\]]*\][^\]]*\]\([^\)]+\)", line):
                 md_errors.append(f"[MD_LINK] {rel}:{i}: nested brackets inside link text")
             if line.count("`") % 2 != 0:
